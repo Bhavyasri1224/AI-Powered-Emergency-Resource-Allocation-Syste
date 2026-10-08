@@ -1,0 +1,11 @@
+hospital_name,latitude,longitude,available_beds,icu_beds,specializations,current_patient_load,emergency_support
+Harbor Medical Centre,40.7165,-74.0038,28,7,trauma|cardiac|general,42,true
+Northstar General,40.7288,-74.0012,34,5,trauma|stroke|general,58,true
+Riverside Emergency Hospital,40.7042,-74.0154,19,6,cardiac|stroke|general,35,true
+Cedar Point Health,40.7211,-74.0211,22,3,burns|trauma|general,68,true
+Metro Community Hospital,40.6976,-74.0024,41,4,cardiac|general,77,true
+Starlight Specialty Centre,40.7354,-74.0128,16,8,stroke|cardiac|trauma,29,true
+Eastgate Medical,40.7091,-73.9877,12,0,general|burns,23,true
+Summit Care Hospital,40.6918,-74.0193,25,2,trauma|burns|general,51,true
+Willow Creek Hospital,40.7412,-73.9968,31,5,stroke|general,46,true
+Beacon Urgent Centre,40.7137,-74.0315,9,1,general|cardiac,18,false

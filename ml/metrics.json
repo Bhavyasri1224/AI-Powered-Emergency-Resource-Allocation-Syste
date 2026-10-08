@@ -1,0 +1,67 @@
+{
+  "selected_model": "Random Forest",
+  "rows": 1800,
+  "class_counts": {
+    "High": 621,
+    "Critical": 602,
+    "Medium": 577
+  },
+  "models": {
+    "Random Forest": {
+      "accuracy": 0.9389,
+      "precision_macro": 0.9392,
+      "recall_macro": 0.9402,
+      "f1_macro": 0.9392,
+      "confusion_matrix_labels": [
+        "Medium",
+        "High",
+        "Critical"
+      ],
+      "confusion_matrix": [
+        [
+          115,
+          0,
+          0
+        ],
+        [
+          7,
+          112,
+          5
+        ],
+        [
+          0,
+          10,
+          111
+        ]
+      ]
+    },
+    "Logistic Regression": {
+      "accuracy": 0.925,
+      "precision_macro": 0.926,
+      "recall_macro": 0.9262,
+      "f1_macro": 0.9256,
+      "confusion_matrix_labels": [
+        "Medium",
+        "High",
+        "Critical"
+      ],
+      "confusion_matrix": [
+        [
+          113,
+          2,
+          0
+        ],
+        [
+          8,
+          111,
+          5
+        ],
+        [
+          0,
+          12,
+          109
+        ]
+      ]
+    }
+  }
+}

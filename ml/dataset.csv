@@ -1,0 +1,1801 @@
+emergency_type,age,patient_count,unconscious,severe_bleeding,difficulty_breathing,chest_pain,stroke_signs,burns,fracture,conscious_stable,severity
+Road Accident,84,2,0,0,0,0,0,0,1,0,Medium
+Heart Emergency,17,1,0,0,0,0,1,0,0,0,High
+Fire/Disaster,3,2,0,0,0,0,0,0,0,0,Medium
+Fire/Disaster,40,2,0,1,0,1,1,0,1,0,Critical
+Road Accident,44,1,0,0,0,0,1,0,0,0,High
+Other,56,3,1,0,1,0,1,1,1,0,Critical
+Stroke,78,1,0,0,0,1,1,0,0,0,Critical
+Stroke,53,1,0,0,0,0,1,0,0,0,High
+Heart Emergency,86,1,0,0,0,0,1,0,0,0,High
+Heart Emergency,35,2,1,0,0,1,0,0,0,0,Critical
+Heart Emergency,30,3,0,0,0,1,0,0,0,0,High
+Stroke,32,1,0,0,0,0,0,0,1,0,Medium
+Fire/Disaster,16,3,0,0,0,0,0,0,0,0,Medium
+Stroke,10,1,0,0,0,0,0,0,0,1,Medium
+Other,31,1,0,0,0,1,0,0,0,0,Medium
+Other,91,1,0,0,0,1,0,0,1,0,High
+Fire/Disaster,8,4,0,0,0,1,0,0,0,1,High
+Road Accident,13,4,0,0,0,1,0,0,0,0,High
+Heart Emergency,50,2,0,0,1,0,0,1,1,0,Critical
+Road Accident,36,1,1,1,0,1,0,0,0,0,Critical
+Stroke,82,1,0,0,0,1,0,0,0,0,High
+Road Accident,50,1,0,0,1,0,0,0,0,0,High
+Other,4,2,1,0,1,0,0,1,0,0,Critical
+Heart Emergency,20,1,0,0,0,0,0,0,0,0,Medium
+Other,75,4,0,0,0,0,0,1,1,1,High
+Heart Emergency,69,3,0,0,0,0,0,0,1,1,High
+Fire/Disaster,53,1,0,0,0,0,0,0,0,0,Medium
+Fire/Disaster,92,2,0,0,0,0,1,0,1,0,High
+Road Accident,88,3,0,0,0,0,1,0,0,0,Critical
+Stroke,85,2,0,0,0,0,0,0,0,0,Medium
+Stroke,7,1,0,0,0,0,0,0,1,1,Medium
+Fire/Disaster,13,3,0,0,0,0,0,1,0,0,High
+Road Accident,14,2,0,0,0,0,0,0,0,0,Medium
+Stroke,61,2,0,0,0,0,0,0,0,1,Medium
+Road Accident,24,1,0,0,0,0,0,0,0,1,Medium
+Other,45,4,0,0,1,0,1,1,0,1,Critical
+Heart Emergency,7,4,1,0,0,0,1,0,0,0,Critical
+Fire/Disaster,69,1,0,0,0,0,0,0,0,0,Medium
+Road Accident,93,1,0,1,0,0,0,1,0,0,High
+Fire/Disaster,13,2,0,0,0,0,0,0,0,1,Medium
+Road Accident,13,2,0,0,0,0,0,0,0,0,Medium
+Heart Emergency,83,1,0,0,0,0,0,1,0,1,High
+Heart Emergency,32,4,0,1,0,1,0,0,0,0,Critical
+Road Accident,88,2,0,1,0,0,1,1,0,0,Critical
+Other,57,1,0,0,1,0,0,0,0,0,High
+Other,62,2,0,0,1,1,1,0,0,0,Critical
+Fire/Disaster,18,3,0,0,0,0,0,1,0,0,High
+Road Accident,72,2,0,0,0,0,0,0,1,0,Medium
+Stroke,3,4,0,0,1,0,1,0,0,0,Critical
+Other,4,3,0,0,0,0,0,0,1,0,High
+Stroke,86,1,0,0,0,1,0,0,0,0,High
+Other,45,2,0,1,0,1,0,0,1,1,Critical
+Road Accident,65,2,0,0,0,0,0,0,0,0,Medium
+Road Accident,76,2,0,0,0,0,0,1,0,1,High
+Other,25,1,0,0,0,0,0,0,0,0,High
+Heart Emergency,7,1,0,1,1,0,0,0,0,1,Critical
+Fire/Disaster,11,1,0,0,0,0,0,0,0,1,Medium
+Fire/Disaster,13,2,0,1,0,0,0,0,0,0,High
+Other,57,2,0,0,0,0,0,0,0,1,Medium
+Road Accident,50,4,0,0,0,0,0,0,0,1,Medium
+Stroke,79,1,0,0,0,0,0,0,0,0,Medium
+Other,34,3,0,0,0,0,0,0,0,0,Medium
+Other,48,2,0,0,0,0,0,0,0,0,Medium
+Road Accident,86,2,1,0,0,0,0,0,1,1,High
+Road Accident,29,3,0,0,0,0,0,0,0,0,Medium
+Road Accident,61,1,0,0,0,0,0,0,0,1,Medium
+Stroke,53,4,0,0,0,0,0,0,0,1,Medium
+Other,54,1,1,0,0,0,0,0,0,0,High
+Other,45,1,0,0,0,0,1,0,0,0,High
+Stroke,28,1,0,0,0,1,0,0,0,1,High
+Other,2,1,0,0,1,0,0,0,1,0,High
+Other,3,1,0,0,0,0,0,0,0,0,Medium
+Stroke,92,2,0,0,0,0,0,0,0,1,Medium
+Stroke,28,2,0,1,0,0,1,0,0,0,Critical
+Road Accident,87,1,0,0,0,0,0,0,0,0,Medium
+Other,13,3,0,0,0,0,0,0,1,0,Medium
+Road Accident,21,2,0,1,0,0,0,0,0,0,High
+Heart Emergency,20,3,0,1,0,0,0,1,0,0,Critical
+Heart Emergency,13,2,0,0,0,0,1,0,0,0,High
+Heart Emergency,90,2,0,0,1,0,0,0,0,0,High
+Stroke,67,3,0,1,1,1,0,0,0,0,Critical
+Heart Emergency,64,2,0,0,0,0,0,0,0,1,Medium
+Road Accident,28,1,0,0,0,0,1,0,0,0,High
+Fire/Disaster,5,2,1,1,0,0,0,1,1,0,Critical
+Other,31,3,0,0,0,1,0,0,0,0,High
+Other,63,3,0,0,0,1,1,0,1,0,Critical
+Heart Emergency,14,1,0,0,0,1,0,0,0,1,High
+Road Accident,30,2,0,0,0,1,0,0,0,1,Medium
+Other,5,2,1,0,0,0,0,0,0,0,High
+Road Accident,11,2,0,0,0,1,0,0,0,0,Medium
+Other,34,1,0,0,1,0,0,1,0,1,Critical
+Stroke,50,1,0,0,0,0,0,0,0,0,Medium
+Other,17,3,0,0,0,0,0,0,0,0,Medium
+Other,63,1,1,0,1,0,1,0,0,0,Critical
+Road Accident,47,1,0,0,0,0,0,1,1,1,High
+Stroke,31,3,0,0,0,0,0,0,0,0,Medium
+Other,84,3,0,0,1,0,1,0,0,0,Critical
+Road Accident,50,1,0,0,1,0,0,0,0,0,High
+Other,93,1,0,0,0,0,0,0,1,1,Medium
+Stroke,40,2,1,0,0,0,1,0,0,0,Critical
+Heart Emergency,93,2,0,0,0,1,0,0,0,0,High
+Fire/Disaster,59,1,0,0,0,0,0,0,0,0,Medium
+Stroke,17,1,0,0,0,0,0,0,1,0,Medium
+Stroke,89,4,0,0,0,1,0,0,0,1,High
+Heart Emergency,65,1,0,0,0,0,0,0,0,0,Medium
+Stroke,78,3,0,0,1,0,0,0,1,1,Critical
+Stroke,15,4,0,0,0,1,0,0,0,0,Critical
+Road Accident,2,4,0,0,0,1,0,0,0,0,High
+Road Accident,13,4,0,1,0,0,0,0,0,0,High
+Stroke,76,2,0,0,0,0,0,0,0,1,Medium
+Road Accident,10,2,0,0,1,0,0,0,0,0,High
+Stroke,35,1,0,0,0,0,0,0,0,0,Medium
+Road Accident,51,2,0,1,0,0,0,0,1,1,High
+Fire/Disaster,86,1,0,0,0,0,1,0,1,0,High
+Road Accident,82,4,0,0,0,0,0,0,0,0,Medium
+Stroke,23,1,0,0,0,0,0,0,0,1,Medium
+Heart Emergency,49,3,0,0,0,0,0,0,0,0,Medium
+Road Accident,44,1,0,0,0,0,0,0,0,1,Medium
+Fire/Disaster,67,3,1,0,0,0,1,0,0,0,Critical
+Stroke,42,1,0,0,0,0,1,0,0,0,Critical
+Fire/Disaster,21,1,0,1,0,0,0,0,0,0,High
+Road Accident,28,1,1,0,0,0,1,1,0,0,Critical
+Stroke,69,1,1,0,0,0,1,0,0,0,Critical
+Heart Emergency,5,1,0,0,0,0,1,0,0,0,High
+Road Accident,57,1,0,1,0,0,0,1,1,0,Critical
+Fire/Disaster,42,1,1,0,0,0,0,0,0,0,High
+Road Accident,58,1,1,0,0,0,1,1,0,1,Critical
+Other,48,2,0,0,0,0,0,0,0,0,Medium
+Heart Emergency,71,1,1,0,1,0,0,1,0,0,Critical
+Fire/Disaster,40,4,1,0,1,1,0,0,0,0,Critical
+Road Accident,68,1,1,0,0,0,0,0,0,0,High
+Stroke,32,1,0,0,0,0,0,0,0,0,Medium
+Road Accident,67,1,0,0,1,0,0,1,0,0,Critical
+Other,89,2,0,0,1,0,0,0,1,0,High
+Road Accident,93,1,0,0,0,0,0,0,0,0,Medium
+Heart Emergency,21,2,0,0,0,0,0,1,0,0,High
+Road Accident,11,3,0,0,0,0,0,0,1,0,Medium
+Other,88,1,1,0,1,0,0,0,1,1,Critical
+Stroke,25,2,0,0,0,0,0,0,0,0,Medium
+Heart Emergency,9,1,0,0,0,0,1,0,1,0,Critical
+Other,95,1,0,0,0,1,0,0,0,1,High
+Heart Emergency,6,3,1,0,0,0,1,0,0,0,Critical
+Fire/Disaster,7,1,0,0,0,0,0,0,0,0,Medium
+Other,85,2,0,0,0,0,1,0,0,1,High
+Road Accident,22,2,0,1,1,1,0,0,1,1,Critical
+Heart Emergency,93,1,0,1,0,0,0,1,0,0,Critical
+Stroke,52,2,0,0,0,0,0,0,0,0,Medium
+Other,68,2,0,0,1,0,0,0,0,0,High
+Road Accident,91,1,1,0,0,1,0,0,1,0,Critical
+Heart Emergency,16,2,1,1,0,1,0,0,0,0,Critical
+Fire/Disaster,78,2,0,0,0,0,0,0,0,0,Medium
+Stroke,87,1,0,0,0,0,0,0,0,0,Medium
+Road Accident,9,2,1,0,1,0,1,0,1,0,Critical
+Fire/Disaster,27,3,0,1,0,1,0,0,0,0,Critical
+Other,95,1,0,0,0,0,0,0,0,0,High
+Other,68,2,0,0,0,1,0,0,1,0,High
+Other,14,3,1,0,0,1,0,1,0,0,High
+Stroke,56,1,0,0,0,0,0,0,0,1,Medium
+Road Accident,83,2,0,0,0,0,0,0,0,0,High
+Fire/Disaster,27,1,1,0,0,0,0,0,0,1,High
+Other,10,2,0,0,0,1,0,0,0,1,Medium
+Heart Emergency,51,1,0,0,0,0,0,1,0,0,High
+Fire/Disaster,27,1,0,0,0,0,0,0,0,0,Medium
+Heart Emergency,11,4,0,1,1,0,1,1,0,1,Critical
+Fire/Disaster,7,1,0,0,0,0,0,0,1,0,Medium
+Heart Emergency,33,4,0,0,0,1,0,0,0,0,High
+Road Accident,69,1,0,0,0,0,0,0,1,0,Medium
+Heart Emergency,11,2,0,0,0,0,0,0,0,0,Medium
+Stroke,75,3,0,0,0,0,0,0,0,1,High
+Stroke,56,4,0,0,0,1,0,0,0,0,High
+Other,24,2,0,0,0,0,1,1,0,0,Critical
+Stroke,84,2,0,1,1,0,0,1,0,0,Critical
+Heart Emergency,76,3,1,0,0,0,0,1,0,0,Critical
+Road Accident,92,2,0,0,0,0,0,0,0,0,Medium
+Fire/Disaster,37,4,0,0,0,0,0,0,0,0,Medium
+Other,11,1,0,0,1,0,0,0,0,0,High
+Other,5,3,0,0,0,1,0,0,0,0,High
+Other,14,2,0,0,0,0,0,0,0,0,Medium
+Other,71,2,0,0,0,0,0,0,1,1,Medium
+Fire/Disaster,87,2,0,1,0,1,1,0,0,0,Critical
+Road Accident,90,1,0,1,0,0,0,1,0,1,Critical
+Other,87,1,0,0,0,0,0,0,0,0,Medium
+Heart Emergency,20,3,1,0,1,0,0,0,0,0,Critical
+Other,85,2,1,0,0,0,0,0,0,0,High
+Heart Emergency,14,4,1,1,0,0,1,0,1,0,Critical
+Stroke,43,1,0,0,0,0,0,1,0,1,High
+Other,48,4,0,0,0,0,0,0,0,1,Medium
+Stroke,55,2,0,0,0,0,0,1,0,0,High
+Heart Emergency,70,2,0,1,1,1,0,1,0,1,Critical
+Fire/Disaster,52,2,0,0,0,0,0,0,0,0,Medium
+Stroke,84,1,0,0,0,0,0,0,0,0,Medium
+Stroke,15,4,0,0,1,0,0,1,0,0,Critical
+Fire/Disaster,95,1,0,0,0,0,0,1,0,1,High
+Stroke,49,3,0,0,0,1,0,1,0,0,Critical
+Road Accident,70,1,1,0,1,0,1,0,0,0,Critical
+Other,40,2,1,0,1,0,0,0,0,0,Critical
+Heart Emergency,18,1,0,0,0,0,0,1,0,1,High
+Road Accident,95,1,1,0,0,1,1,0,1,0,Critical
+Heart Emergency,57,2,1,0,0,0,0,1,0,0,Critical
+Other,54,1,1,0,0,0,1,0,0,1,Critical
+Road Accident,74,1,0,0,0,0,1,0,0,0,High
+Heart Emergency,66,2,1,1,1,0,0,0,0,1,Critical
+Stroke,10,3,0,0,0,0,0,0,0,0,Medium
+Stroke,82,1,0,0,0,1,0,0,0,0,High
+Heart Emergency,91,1,0,1,0,1,0,0,0,1,Critical
+Other,40,2,0,0,0,0,0,0,0,0,Medium
+Stroke,13,2,0,0,0,0,0,0,1,0,Medium
+Fire/Disaster,55,1,0,0,0,0,0,0,0,1,Medium
+Heart Emergency,74,2,0,0,0,0,0,0,0,0,High
+Road Accident,83,2,0,0,0,0,1,0,1,0,High
+Other,53,1,0,1,0,0,0,0,1,0,High
+Stroke,92,2,0,0,0,0,1,0,1,1,Critical
+Heart Emergency,42,1,0,0,0,0,0,0,1,0,Medium
+Heart Emergency,75,2,1,0,1,0,0,1,0,0,Critical
+Road Accident,49,4,0,0,0,0,0,0,0,1,Medium
+Heart Emergency,40,3,0,0,0,1,0,0,0,0,High
+Fire/Disaster,56,1,0,0,1,0,1,1,1,1,Critical
+Fire/Disaster,43,2,0,0,1,1,0,0,1,0,Critical
+Road Accident,13,2,0,0,0,1,0,0,0,0,Medium
+Road Accident,81,4,1,1,0,0,0,1,0,0,Critical
+Other,68,1,0,0,0,0,0,0,0,0,Medium
+Other,33,4,0,0,0,0,0,0,0,0,Medium
+Road Accident,3,1,1,0,1,0,0,1,0,0,Critical
+Stroke,51,3,1,0,0,0,0,0,0,0,Critical
+Road Accident,9,2,0,0,0,1,0,1,0,0,High
+Road Accident,88,1,0,0,0,0,1,1,0,0,Critical
+Road Accident,73,3,0,0,0,0,1,0,0,0,High
+Heart Emergency,74,2,0,0,0,0,0,0,0,0,Medium
+Other,5,1,1,0,0,0,1,0,0,0,Critical
+Other,80,1,0,0,0,0,0,0,0,0,Medium
+Other,26,2,1,0,0,0,0,0,0,0,High
+Heart Emergency,32,2,0,0,0,0,0,0,1,0,Medium
+Stroke,50,1,0,0,0,0,0,0,0,0,Medium
+Fire/Disaster,62,1,0,0,0,0,0,1,0,1,High
+Other,59,2,0,0,0,0,0,0,0,0,Medium
+Heart Emergency,72,2,0,0,0,0,0,0,0,0,Medium
+Road Accident,1,1,0,0,0,0,0,0,1,0,Medium
+Heart Emergency,88,1,0,1,0,0,0,0,0,0,High
+Stroke,9,1,0,0,0,0,0,0,0,0,Medium
+Heart Emergency,37,1,0,0,0,0,0,0,0,1,Medium
+Fire/Disaster,32,3,0,0,0,0,0,0,0,0,Medium
+Road Accident,3,1,0,0,0,0,0,0,0,0,Medium
+Road Accident,32,1,1,0,1,0,0,0,0,0,Critical
+Stroke,49,1,0,0,0,0,0,0,0,0,Medium
+Stroke,82,1,1,0,0,0,0,1,0,0,Critical
+Heart Emergency,53,2,0,0,0,0,0,0,0,1,Medium
+Stroke,68,1,0,0,0,0,0,0,0,0,Medium
+Road Accident,14,1,0,1,0,0,0,0,0,0,High
+Heart Emergency,9,1,0,1,0,0,0,0,0,0,High
+Fire/Disaster,36,3,0,1,1,0,0,1,1,0,Critical
+Stroke,90,4,0,0,0,0,0,1,0,1,High
+Other,19,4,0,0,0,0,0,0,0,0,Medium
+Other,7,1,0,0,1,1,1,0,0,0,Critical
+Stroke,73,2,0,1,0,0,0,0,0,0,High
+Other,69,4,0,0,1,0,0,0,0,0,High
+Heart Emergency,29,1,0,0,1,1,0,0,0,0,Critical
+Heart Emergency,7,2,0,0,0,0,0,0,0,1,Medium
+Road Accident,33,3,0,1,0,0,1,0,1,0,Critical
+Fire/Disaster,13,1,0,0,1,0,0,0,0,0,High
+Other,54,1,0,0,0,0,0,1,0,0,Medium
+Road Accident,9,1,1,0,0,0,0,1,0,0,Critical
+Other,4,2,0,0,0,0,1,0,0,0,High
+Heart Emergency,69,2,0,0,0,0,0,0,0,1,Medium
+Other,23,3,0,1,0,0,0,0,0,1,High
+Stroke,30,3,1,1,0,0,0,0,0,1,Critical
+Heart Emergency,7,2,0,0,0,0,0,0,0,0,Medium
+Stroke,35,1,0,0,0,0,1,0,0,0,Critical
+Road Accident,26,1,0,0,0,1,0,0,0,0,Medium
+Stroke,10,4,1,0,1,0,0,0,0,0,Critical
+Heart Emergency,42,2,0,0,0,0,0,0,0,1,Medium
+Heart Emergency,15,1,0,0,0,0,0,0,0,0,Medium
+Other,33,3,0,0,1,0,0,1,1,0,Critical
+Road Accident,75,1,0,1,1,1,0,0,0,1,Critical
+Stroke,27,4,0,0,1,1,0,1,0,0,Critical
+Road Accident,7,1,0,0,1,0,0,1,0,0,Critical
+Road Accident,63,1,1,0,0,0,0,0,0,1,High
+Stroke,61,1,0,0,0,1,0,1,0,0,Critical
+Other,29,2,0,0,0,0,0,1,1,0,High
+Heart Emergency,54,1,0,1,0,1,0,0,1,0,Critical
+Stroke,79,1,0,1,0,0,0,0,0,0,High
+Fire/Disaster,17,1,0,0,0,0,0,1,1,0,High
+Road Accident,25,1,0,0,0,0,0,0,0,1,Medium
+Stroke,72,1,0,1,0,1,0,0,0,0,Critical
+Heart Emergency,53,1,1,0,0,0,0,0,0,0,High
+Stroke,16,3,0,0,0,0,0,0,0,0,Medium
+Road Accident,77,3,0,0,0,0,0,0,1,1,Critical
+Other,39,2,0,0,1,0,0,1,0,0,Critical
+Heart Emergency,69,3,0,0,0,1,1,0,0,0,Critical
+Heart Emergency,36,1,0,1,0,0,0,0,1,0,Critical
+Road Accident,90,1,0,0,0,0,0,0,0,1,Medium
+Stroke,52,2,0,0,0,0,1,0,0,0,High
+Heart Emergency,38,2,0,0,0,0,0,0,0,0,Medium
+Fire/Disaster,9,1,0,0,0,0,0,0,0,1,Medium
+Road Accident,10,2,0,0,1,0,0,0,0,0,High
+Fire/Disaster,35,2,0,0,0,1,0,0,0,1,Medium
+Heart Emergency,2,2,0,0,0,0,0,1,0,0,High
+Road Accident,64,1,0,0,1,0,0,0,0,1,High
+Road Accident,88,2,0,0,0,0,0,1,1,0,High
+Fire/Disaster,78,3,0,0,0,0,0,0,0,0,Medium
+Fire/Disaster,64,4,0,0,0,0,0,0,0,0,High
+Fire/Disaster,40,1,0,1,0,0,0,0,0,0,High
+Fire/Disaster,89,1,0,0,0,0,0,0,0,1,Medium
+Stroke,11,4,0,1,1,0,0,0,1,0,Critical
+Heart Emergency,16,4,0,0,0,1,0,0,1,0,Critical
+Stroke,20,2,0,1,0,0,0,0,0,0,High
+Fire/Disaster,41,1,0,1,0,0,0,0,0,0,High
+Road Accident,85,2,0,0,1,0,0,0,0,0,High
+Fire/Disaster,46,1,0,0,0,0,0,0,0,0,Medium
+Fire/Disaster,43,1,0,0,0,0,0,0,0,0,Medium
+Road Accident,93,1,0,0,0,0,0,0,0,0,Medium
+Stroke,41,3,0,0,0,0,0,0,0,1,Medium
+Heart Emergency,71,1,1,0,0,0,0,0,0,1,High
+Other,8,2,0,0,0,0,1,0,0,0,High
+Fire/Disaster,25,2,0,1,0,0,1,1,0,0,High
+Stroke,84,2,0,1,0,1,0,0,0,1,Critical
+Road Accident,45,1,0,0,0,0,0,0,0,0,Medium
+Stroke,84,3,0,1,0,0,0,1,0,0,Critical
+Road Accident,87,3,0,0,0,1,0,0,1,0,High
+Road Accident,40,1,0,1,1,0,1,1,0,0,Critical
+Road Accident,42,1,0,0,0,0,1,0,0,1,High
+Road Accident,55,2,0,0,0,0,1,0,0,0,High
+Stroke,22,3,0,1,0,0,0,0,0,0,Critical
+Other,40,4,0,0,0,0,0,0,0,0,Medium
+Road Accident,93,3,1,1,0,0,1,0,0,0,Critical
+Heart Emergency,61,1,0,0,0,0,0,0,0,0,Medium
+Road Accident,62,4,0,0,0,0,0,0,0,0,Medium
+Heart Emergency,26,2,0,0,0,1,1,1,1,0,Critical
+Heart Emergency,17,1,0,1,0,0,0,0,0,0,High
+Other,16,1,0,0,0,1,0,0,0,1,Medium
+Heart Emergency,57,1,0,0,0,0,0,0,0,0,Medium
+Road Accident,83,2,0,0,0,0,0,0,0,1,Medium
+Heart Emergency,57,1,1,0,0,0,1,0,0,1,Critical
+Other,37,2,0,1,0,0,0,0,0,0,High
+Fire/Disaster,39,2,0,0,0,0,1,0,0,0,High
+Fire/Disaster,45,2,0,0,0,0,0,0,0,0,Medium
+Fire/Disaster,2,1,0,0,0,0,0,0,1,1,Medium
+Road Accident,2,1,0,0,0,0,1,0,0,1,High
+Fire/Disaster,92,1,0,0,0,0,0,1,0,0,High
+Fire/Disaster,71,4,0,0,0,0,0,1,0,1,High
+Heart Emergency,71,1,0,0,0,0,0,0,0,0,High
+Other,71,2,0,0,0,1,0,1,0,0,High
+Stroke,61,4,0,0,0,0,0,0,0,0,Medium
+Other,9,2,1,0,0,0,0,0,0,0,High
+Road Accident,67,1,0,0,0,0,0,0,0,0,Medium
+Stroke,23,2,0,0,1,0,0,0,0,1,High
+Stroke,61,4,0,0,0,1,0,0,1,0,Critical
+Road Accident,74,1,1,0,0,0,1,0,0,1,Critical
+Heart Emergency,10,3,0,0,0,1,0,0,0,0,High
+Fire/Disaster,51,2,1,1,0,0,0,1,1,0,Critical
+Road Accident,91,2,0,0,0,0,0,0,0,1,Medium
+Stroke,37,1,0,0,0,0,0,0,1,0,Medium
+Heart Emergency,87,1,1,0,0,1,0,0,0,1,Critical
+Road Accident,52,2,0,0,0,0,0,0,0,0,Medium
+Other,49,1,0,0,0,1,0,1,0,0,High
+Heart Emergency,10,1,0,0,0,0,0,0,0,0,Medium
+Road Accident,57,2,0,0,1,0,1,1,0,0,Critical
+Stroke,79,1,0,0,0,1,0,0,0,1,High
+Stroke,77,1,0,0,0,0,0,1,0,0,High
+Heart Emergency,42,1,0,0,1,0,0,0,0,0,High
+Heart Emergency,88,2,0,0,0,0,0,0,0,0,Medium
+Fire/Disaster,44,1,0,1,0,0,0,0,0,0,High
+Heart Emergency,69,2,0,0,0,0,1,0,1,0,Critical
+Road Accident,10,1,0,0,0,0,0,1,0,1,Medium
+Other,30,3,0,1,1,1,0,0,0,0,Critical
+Fire/Disaster,51,2,0,0,0,0,0,0,1,0,Medium
+Road Accident,87,1,0,0,0,0,0,1,0,0,High
+Other,75,2,1,0,1,0,1,0,0,0,Critical
+Stroke,88,2,1,0,0,0,1,0,0,1,Critical
+Stroke,54,2,1,0,0,0,0,0,0,0,High
+Fire/Disaster,42,4,1,0,1,0,0,0,1,0,Critical
+Road Accident,48,1,0,0,0,0,0,0,0,0,Medium
+Heart Emergency,25,2,0,0,0,0,0,1,0,0,High
+Other,49,2,0,0,0,0,0,1,0,0,Medium
+Other,75,3,0,1,0,0,1,0,0,0,Critical
+Road Accident,2,2,0,0,0,0,0,0,1,0,Medium
+Other,36,1,0,0,0,0,0,0,0,0,Medium
+Road Accident,23,2,0,0,0,0,0,0,0,0,Medium
+Stroke,72,1,0,0,0,0,0,0,0,0,Medium
+Heart Emergency,52,1,0,1,0,0,0,0,1,0,Critical
+Stroke,93,1,0,0,1,0,0,0,1,0,Critical
+Fire/Disaster,24,2,0,0,0,0,0,0,1,0,Medium
+Heart Emergency,53,1,0,0,0,1,0,0,1,0,High
+Other,75,4,0,1,1,0,0,1,0,1,Critical
+Other,92,2,0,1,0,0,0,0,1,0,High
+Road Accident,82,2,1,0,0,0,1,0,0,0,Critical
+Heart Emergency,49,2,0,0,1,0,1,0,0,0,Critical
+Other,11,1,0,1,0,0,0,0,0,0,High
+Fire/Disaster,46,1,0,0,0,1,0,0,0,1,Medium
+Other,61,2,0,0,0,1,0,0,0,0,Medium
+Fire/Disaster,12,1,0,0,0,0,0,0,1,0,Medium
+Fire/Disaster,76,2,0,0,0,0,0,0,0,0,Medium
+Other,28,2,0,0,0,0,0,0,0,0,High
+Other,4,2,0,0,0,0,0,0,0,0,Medium
+Heart Emergency,68,1,0,1,0,0,1,0,1,0,Critical
+Other,58,4,0,1,0,0,1,0,0,1,Critical
+Stroke,65,1,1,0,0,1,0,1,0,0,Critical
+Stroke,70,1,0,0,0,0,0,0,0,0,Medium
+Fire/Disaster,68,1,0,0,0,0,0,0,0,0,Medium
+Road Accident,39,4,1,1,0,0,0,0,0,0,Critical
+Other,7,1,0,0,0,0,0,0,0,0,Medium
+Other,29,2,0,0,0,0,0,0,0,0,Medium
+Other,20,3,0,0,0,1,0,0,0,0,High
+Stroke,94,1,0,0,0,0,0,0,0,0,Medium
+Other,44,1,0,0,0,0,0,1,0,1,Medium
+Heart Emergency,70,1,0,0,0,0,0,0,0,0,Medium
+Other,35,1,0,0,0,0,0,0,0,1,Medium
+Road Accident,14,1,0,0,0,0,0,1,1,0,High
+Road Accident,17,2,0,0,0,0,1,0,0,1,High
+Fire/Disaster,71,2,0,0,0,1,0,0,1,1,High
+Heart Emergency,77,4,0,0,1,0,0,0,0,0,Critical
+Road Accident,57,4,0,0,0,0,0,0,0,0,Medium
+Other,86,4,1,0,0,0,0,0,1,1,Critical
+Fire/Disaster,63,2,0,0,0,1,0,0,0,0,Medium
+Other,19,1,0,0,0,0,1,0,1,0,High
+Heart Emergency,42,1,0,1,0,0,0,0,0,0,High
+Fire/Disaster,50,1,0,0,0,1,1,0,1,0,High
+Stroke,35,2,0,0,0,0,0,0,0,0,Medium
+Heart Emergency,16,3,0,1,0,0,0,0,0,0,Critical
+Stroke,56,1,1,1,0,1,0,1,0,1,High
+Other,48,2,0,0,0,1,0,0,0,0,Medium
+Heart Emergency,17,2,0,0,0,0,0,0,0,0,Medium
+Fire/Disaster,1,1,0,0,0,0,0,0,0,0,Medium
+Other,68,1,0,1,0,0,0,1,0,0,Critical
+Road Accident,14,3,1,0,0,1,0,0,0,0,Critical
+Fire/Disaster,9,2,0,0,0,0,0,0,0,0,Medium
+Stroke,39,1,0,0,0,0,0,0,1,0,Medium
+Fire/Disaster,95,2,0,1,0,0,1,0,0,0,Critical
+Other,4,1,0,0,0,0,0,0,0,0,Medium
+Other,9,2,0,0,0,0,0,0,0,0,Medium
+Road Accident,81,1,0,0,1,0,1,0,0,0,Critical
+Other,65,3,0,0,0,0,0,0,0,0,Medium
+Other,62,1,1,0,0,0,0,0,0,0,High
+Stroke,18,1,0,0,0,0,0,0,0,0,Medium
+Stroke,19,1,0,1,0,0,0,0,0,1,Critical
+Road Accident,24,4,0,0,0,0,0,0,0,0,Medium
+Heart Emergency,19,1,0,1,0,0,1,0,0,1,Critical
+Other,10,2,0,1,0,0,0,0,1,1,High
+Fire/Disaster,4,2,0,0,1,0,0,0,0,0,Critical
+Stroke,19,4,1,0,0,0,0,1,0,0,Critical
+Road Accident,41,1,0,0,0,1,0,1,0,0,High
+Fire/Disaster,43,1,0,0,0,0,1,1,0,1,Critical
+Other,82,2,0,1,0,0,0,0,0,0,High
+Fire/Disaster,25,1,0,0,0,1,0,1,0,0,High
+Road Accident,94,1,1,0,0,1,0,0,0,0,Critical
+Heart Emergency,8,1,0,0,0,0,0,1,1,1,High
+Road Accident,71,1,1,0,1,0,0,1,0,0,Critical
+Road Accident,27,3,0,0,0,1,0,1,0,1,Critical
+Other,77,1,0,0,0,1,0,0,0,1,High
+Stroke,56,1,0,0,0,0,0,1,1,0,Critical
+Fire/Disaster,29,1,0,0,1,0,1,0,0,1,Critical
+Stroke,3,3,0,0,0,1,0,0,0,0,High
+Heart Emergency,41,2,0,0,0,0,0,0,1,0,Medium
+Other,54,2,1,0,0,0,0,0,0,0,High
+Heart Emergency,30,4,1,0,0,0,1,0,1,0,Critical
+Heart Emergency,35,2,0,0,0,0,0,0,0,1,Medium
+Heart Emergency,35,1,0,1,0,1,0,0,0,0,Critical
+Other,35,3,0,0,0,0,0,0,0,0,Medium
+Stroke,57,4,0,0,0,0,1,0,0,1,Critical
+Other,66,2,0,0,0,0,0,0,1,1,Medium
+Other,47,2,0,0,0,0,1,0,0,0,High
+Heart Emergency,57,3,0,0,0,0,0,1,0,0,Critical
+Stroke,10,1,0,0,0,1,0,0,0,0,High
+Heart Emergency,38,1,1,0,0,0,1,0,0,0,Critical
+Stroke,7,1,1,0,0,0,0,0,0,0,High
+Road Accident,40,1,0,0,0,0,0,0,0,1,Medium
+Road Accident,58,2,0,0,0,0,0,0,0,0,Medium
+Heart Emergency,60,1,0,0,0,0,0,0,0,0,Medium
+Fire/Disaster,22,1,1,0,0,0,0,0,0,0,High
+Heart Emergency,25,3,0,0,0,0,1,0,0,0,Critical
+Stroke,51,1,0,0,0,0,1,0,1,1,Critical
+Fire/Disaster,93,1,0,0,1,0,0,1,0,0,Critical
+Other,75,1,0,0,1,0,0,1,0,0,Critical
+Heart Emergency,8,3,1,0,0,0,1,0,0,0,Critical
+Stroke,76,1,0,0,0,0,0,0,0,1,Medium
+Road Accident,68,2,0,0,1,0,1,0,1,1,Critical
+Heart Emergency,54,3,0,1,0,0,1,0,0,0,Critical
+Heart Emergency,82,1,0,0,0,1,0,0,0,0,High
+Road Accident,60,2,0,0,0,0,1,0,0,0,High
+Other,71,4,0,0,1,0,0,0,0,0,High
+Fire/Disaster,54,2,0,0,0,0,0,0,1,0,Medium
+Stroke,51,1,0,0,0,0,1,0,0,0,High
+Road Accident,83,1,0,0,0,0,1,0,0,0,High
+Stroke,81,3,0,1,1,0,0,0,0,0,Critical
+Road Accident,44,2,0,0,0,0,0,0,1,0,Medium
+Fire/Disaster,65,4,0,0,0,1,0,0,1,0,High
+Other,11,2,0,0,0,0,0,0,1,0,Medium
+Heart Emergency,22,2,0,0,0,1,0,1,0,0,Critical
+Heart Emergency,84,1,0,1,0,0,0,1,1,0,Critical
+Heart Emergency,89,1,0,0,0,0,1,0,0,0,High
+Stroke,40,2,1,1,1,1,1,0,0,0,Critical
+Heart Emergency,5,2,1,0,1,1,1,1,1,1,Critical
+Stroke,48,2,0,0,0,0,0,0,0,1,Medium
+Fire/Disaster,94,3,0,0,0,0,0,0,1,0,High
+Heart Emergency,52,3,0,0,0,1,0,0,0,1,High
+Heart Emergency,76,1,0,0,1,1,0,0,1,0,Critical
+Other,71,4,0,0,0,0,0,0,0,0,Medium
+Other,60,4,0,0,0,0,0,0,0,0,Medium
+Other,61,1,0,0,0,0,0,1,0,1,Medium
+Heart Emergency,94,2,0,1,0,0,0,0,0,0,High
+Heart Emergency,6,2,0,1,0,0,0,0,0,0,High
+Road Accident,58,1,1,0,0,0,0,0,0,0,High
+Fire/Disaster,38,2,0,0,0,0,0,0,0,1,Medium
+Stroke,1,4,0,0,1,0,0,0,0,1,Critical
+Road Accident,73,2,0,0,0,1,0,0,0,0,High
+Heart Emergency,67,2,0,0,1,0,1,0,0,0,Critical
+Road Accident,82,2,1,0,0,0,0,0,0,1,High
+Stroke,33,2,0,0,1,0,0,1,0,0,Critical
+Road Accident,1,2,0,0,0,0,1,0,0,0,High
+Other,7,3,0,0,0,0,0,1,1,0,High
+Stroke,94,2,0,0,0,0,0,0,0,0,Medium
+Stroke,92,1,1,0,0,1,0,0,0,0,Critical
+Fire/Disaster,16,4,0,0,0,0,0,0,0,1,Medium
+Other,7,1,0,0,1,0,1,0,1,0,Critical
+Fire/Disaster,25,2,1,1,1,0,0,1,0,0,Critical
+Other,58,3,0,0,1,1,1,0,1,0,Critical
+Other,48,1,0,1,0,0,0,1,0,1,Critical
+Stroke,11,2,0,0,1,0,0,0,0,0,High
+Heart Emergency,94,4,0,1,0,1,0,0,1,0,Critical
+Heart Emergency,19,4,1,0,0,1,0,0,0,1,Critical
+Other,8,2,1,0,0,1,1,0,0,0,Critical
+Other,55,3,1,0,0,0,1,1,0,0,Critical
+Heart Emergency,13,4,0,0,0,1,0,0,0,0,High
+Fire/Disaster,51,2,0,0,0,0,0,0,1,0,Medium
+Stroke,28,3,1,0,0,0,1,0,1,0,Critical
+Heart Emergency,92,1,0,0,0,1,0,0,1,0,High
+Road Accident,38,4,0,0,1,0,0,0,0,0,High
+Heart Emergency,77,2,0,0,0,0,0,0,0,0,Medium
+Other,67,1,0,0,0,1,0,0,0,0,Medium
+Heart Emergency,80,1,1,1,0,0,1,0,0,0,Critical
+Heart Emergency,77,1,0,0,0,0,0,0,1,0,High
+Other,37,1,0,0,0,0,0,0,1,0,Medium
+Stroke,12,4,0,0,0,0,0,0,0,0,Medium
+Fire/Disaster,39,1,0,0,1,0,0,0,1,1,High
+Fire/Disaster,52,2,0,0,0,0,1,0,1,0,Critical
+Other,47,2,0,0,0,1,0,0,1,0,High
+Other,22,1,0,0,0,0,0,1,1,1,High
+Heart Emergency,45,4,0,1,0,0,1,0,0,0,Critical
+Other,68,1,0,0,0,0,0,1,0,0,Medium
+Stroke,23,4,0,0,0,0,0,0,0,1,Medium
+Stroke,19,1,1,0,0,0,1,0,0,1,Critical
+Other,11,1,0,0,0,0,0,0,0,0,Medium
+Fire/Disaster,53,1,1,1,0,0,1,0,0,0,Critical
+Heart Emergency,59,1,0,1,1,0,0,0,0,1,Critical
+Heart Emergency,58,4,0,0,0,1,0,0,0,0,High
+Stroke,1,3,1,0,1,0,0,0,0,1,Critical
+Heart Emergency,58,4,0,0,1,0,0,0,0,0,High
+Other,66,1,0,0,0,0,0,0,0,0,Medium
+Fire/Disaster,67,2,0,0,0,0,0,0,0,0,Medium
+Fire/Disaster,46,2,0,1,0,0,0,0,1,0,High
+Heart Emergency,31,1,0,0,1,0,1,0,0,0,Critical
+Other,76,1,0,0,0,0,0,0,0,0,Medium
+Fire/Disaster,42,2,1,0,0,0,0,0,0,0,High
+Heart Emergency,4,1,0,0,0,1,0,0,0,0,High
+Fire/Disaster,90,2,1,1,0,1,0,1,0,0,Critical
+Fire/Disaster,46,1,0,0,0,0,0,1,0,0,Medium
+Other,42,1,1,1,1,0,0,0,1,0,Critical
+Fire/Disaster,67,2,1,0,0,1,0,0,0,0,Critical
+Other,4,3,0,0,0,1,1,0,0,0,Critical
+Fire/Disaster,52,2,0,0,1,0,1,0,0,0,Critical
+Road Accident,38,4,0,1,0,0,0,0,0,0,High
+Heart Emergency,25,1,0,1,0,0,0,0,0,1,High
+Heart Emergency,41,1,1,0,0,0,0,0,0,0,High
+Road Accident,55,2,0,0,0,0,0,1,0,0,Medium
+Stroke,82,1,0,0,0,1,0,1,0,0,Critical
+Fire/Disaster,12,4,0,0,1,0,0,0,1,0,Critical
+Heart Emergency,12,1,0,1,0,0,1,0,0,1,Critical
+Fire/Disaster,63,1,1,1,0,0,0,0,1,0,Critical
+Stroke,80,3,0,1,0,0,0,0,0,0,Critical
+Road Accident,46,2,0,1,0,0,0,1,1,0,Critical
+Fire/Disaster,76,1,0,0,0,0,0,1,0,1,High
+Heart Emergency,36,1,0,0,1,1,0,1,0,0,Critical
+Road Accident,83,3,0,0,1,0,1,0,0,0,Critical
+Other,41,1,1,0,0,0,0,0,0,0,High
+Road Accident,48,2,0,0,1,0,1,0,1,0,Critical
+Heart Emergency,76,1,0,0,0,1,1,0,0,0,Critical
+Stroke,44,2,0,0,1,1,1,0,0,1,Critical
+Road Accident,76,1,0,1,0,0,1,0,0,0,Critical
+Stroke,14,3,0,0,1,0,0,0,0,0,Critical
+Fire/Disaster,18,3,1,1,0,0,0,1,0,0,Critical
+Other,75,2,1,0,0,0,1,0,0,0,Critical
+Road Accident,72,2,0,1,0,0,1,0,0,1,Critical
+Road Accident,37,2,0,0,0,0,1,1,0,1,Critical
+Road Accident,3,2,0,0,0,0,0,0,1,0,Medium
+Fire/Disaster,83,2,0,1,0,0,0,0,0,0,High
+Other,70,1,1,0,0,0,0,0,1,1,High
+Fire/Disaster,89,4,1,0,1,0,0,0,0,0,Critical
+Other,31,2,0,0,0,0,0,0,0,0,Medium
+Other,14,4,0,1,0,1,0,0,0,0,Critical
+Stroke,51,1,0,0,0,0,0,1,0,0,High
+Other,3,1,0,0,1,1,0,1,0,0,Critical
+Fire/Disaster,78,3,0,0,0,0,0,0,0,0,Medium
+Heart Emergency,42,3,0,0,1,0,0,0,0,0,Critical
+Stroke,24,4,0,0,0,0,0,0,0,0,Medium
+Other,59,1,0,0,0,0,1,0,1,0,High
+Fire/Disaster,24,2,1,1,0,0,0,0,1,0,Critical
+Other,77,2,1,0,0,1,1,0,0,1,Critical
+Stroke,4,2,0,0,0,0,0,0,0,0,Medium
+Other,16,3,0,0,0,0,0,0,0,1,Medium
+Road Accident,12,2,0,0,0,0,0,1,0,0,Medium
+Road Accident,23,1,1,1,0,0,0,0,0,0,Critical
+Stroke,42,1,0,0,0,1,0,1,0,1,Critical
+Road Accident,68,1,0,0,0,1,0,0,0,0,Medium
+Fire/Disaster,18,1,1,0,0,0,0,0,0,0,High
+Fire/Disaster,91,3,1,0,0,0,0,0,0,0,High
+Road Accident,93,2,0,0,0,1,0,0,0,1,High
+Heart Emergency,26,2,1,0,0,0,0,0,1,0,Critical
+Fire/Disaster,93,1,0,0,0,0,1,0,0,0,High
+Heart Emergency,90,2,1,1,0,1,0,1,0,0,High
+Stroke,57,2,0,0,0,1,0,0,0,0,High
+Heart Emergency,38,1,0,0,1,0,0,0,0,0,High
+Stroke,13,1,0,0,0,1,0,0,0,0,High
+Fire/Disaster,46,1,0,0,1,0,0,0,1,1,High
+Other,26,4,0,0,0,1,0,0,0,0,High
+Stroke,33,1,0,0,1,0,0,0,0,0,High
+Stroke,57,3,1,0,1,0,0,0,0,0,Critical
+Fire/Disaster,49,3,0,0,0,0,0,0,0,1,Medium
+Other,19,1,0,0,1,0,0,0,0,0,High
+Heart Emergency,23,3,0,0,0,0,0,0,1,1,High
+Other,41,1,0,1,0,0,0,0,0,0,High
+Stroke,7,1,0,0,0,1,1,0,1,0,Critical
+Stroke,32,4,1,0,0,0,0,0,0,1,Critical
+Fire/Disaster,45,3,1,1,1,1,0,1,0,0,High
+Road Accident,23,1,0,1,0,0,0,0,0,0,High
+Stroke,54,1,0,0,0,0,0,1,0,0,High
+Fire/Disaster,62,1,0,0,0,0,0,1,0,0,Medium
+Other,95,3,0,0,0,0,0,0,0,0,Medium
+Fire/Disaster,37,3,0,1,0,1,0,0,1,1,Critical
+Road Accident,11,2,0,0,0,0,0,0,0,1,Medium
+Fire/Disaster,2,1,1,0,0,0,0,0,1,0,High
+Heart Emergency,31,2,1,0,0,0,0,0,0,0,High
+Heart Emergency,90,2,0,0,0,1,0,0,1,0,High
+Road Accident,8,1,0,1,0,0,1,0,0,1,Critical
+Stroke,46,4,1,1,0,0,0,0,0,0,Critical
+Stroke,8,4,0,0,0,0,0,0,1,0,High
+Heart Emergency,34,1,0,0,0,0,0,1,0,0,High
+Other,64,3,1,0,1,0,0,0,1,0,Critical
+Fire/Disaster,62,2,1,0,0,1,0,1,1,1,Critical
+Other,57,1,0,0,0,1,0,0,0,0,Medium
+Fire/Disaster,37,1,0,1,1,0,0,0,0,1,Critical
+Stroke,51,1,0,1,0,0,0,1,0,0,Critical
+Other,54,1,0,0,0,1,0,0,0,0,Medium
+Road Accident,78,4,1,1,0,0,0,0,1,0,Critical
+Fire/Disaster,60,2,1,0,0,1,0,0,0,0,Critical
+Road Accident,18,4,1,0,0,1,0,1,0,0,Critical
+Heart Emergency,10,4,1,0,1,0,0,0,0,0,Critical
+Other,15,2,0,0,0,0,0,0,0,0,Medium
+Other,44,1,0,0,1,0,0,0,1,0,High
+Road Accident,64,2,0,1,0,1,0,0,0,0,Critical
+Fire/Disaster,57,4,0,0,0,0,0,0,1,0,Medium
+Heart Emergency,71,1,0,0,0,0,0,0,0,0,Medium
+Stroke,27,1,0,1,0,1,1,1,0,1,Critical
+Other,22,4,0,0,1,0,0,0,0,0,High
+Heart Emergency,40,4,0,0,0,1,0,0,0,1,High
+Stroke,37,4,0,0,0,1,1,1,0,0,Critical
+Road Accident,35,1,0,1,0,1,0,1,0,0,Critical
+Road Accident,59,1,1,0,0,0,0,1,0,0,Critical
+Heart Emergency,65,1,0,0,0,0,0,0,0,0,Medium
+Fire/Disaster,20,1,0,0,0,0,0,0,0,0,Medium
+Heart Emergency,94,3,0,0,0,0,1,0,0,1,Critical
+Other,53,1,0,0,1,0,0,1,0,0,Critical
+Heart Emergency,58,3,0,0,0,0,1,0,0,0,Critical
+Road Accident,62,1,0,0,0,0,0,1,0,0,Medium
+Road Accident,27,1,0,0,1,1,1,0,1,0,Critical
+Stroke,71,2,0,0,0,0,0,0,1,1,High
+Road Accident,17,4,0,1,0,0,1,0,0,0,Critical
+Heart Emergency,49,2,0,1,0,0,0,1,0,0,Critical
+Other,28,2,0,0,0,0,0,0,1,0,High
+Heart Emergency,58,2,0,0,0,0,0,0,0,0,Medium
+Heart Emergency,2,4,0,0,0,0,0,0,0,0,High
+Stroke,4,1,0,0,0,1,0,1,0,0,Critical
+Fire/Disaster,86,1,1,1,0,0,0,1,1,1,Critical
+Fire/Disaster,93,1,0,0,1,0,0,0,1,0,High
+Heart Emergency,66,2,0,0,0,0,0,1,0,0,High
+Stroke,24,3,0,1,0,0,0,0,0,0,Critical
+Other,49,2,0,0,0,0,0,1,0,0,Medium
+Other,80,1,1,1,1,0,0,0,1,0,Critical
+Other,68,2,0,0,0,0,0,0,0,0,Medium
+Heart Emergency,19,2,0,0,0,0,0,0,0,0,Medium
+Fire/Disaster,19,1,1,0,0,0,0,0,0,0,High
+Heart Emergency,60,1,0,0,0,0,0,1,0,1,High
+Heart Emergency,60,2,0,0,0,0,0,0,0,1,Medium
+Other,2,3,0,0,0,0,0,0,0,0,Medium
+Other,90,2,0,0,1,1,1,0,0,0,Critical
+Fire/Disaster,91,1,0,0,0,0,0,0,0,0,Medium
+Fire/Disaster,49,1,1,0,0,1,1,0,0,0,Critical
+Other,18,2,0,0,0,0,1,0,0,0,High
+Other,69,3,0,1,0,1,0,1,1,0,Critical
+Road Accident,74,1,0,0,0,1,0,0,1,0,High
+Other,31,1,0,0,1,1,0,0,0,0,Critical
+Road Accident,56,4,0,0,0,0,0,0,0,1,Medium
+Stroke,82,1,0,0,0,0,1,0,0,1,High
+Fire/Disaster,3,1,0,1,0,0,0,0,0,0,High
+Other,85,1,1,0,1,1,0,1,0,0,Critical
+Stroke,55,1,0,0,0,0,1,0,0,0,High
+Other,89,3,0,0,1,0,0,0,0,0,High
+Stroke,6,1,0,0,1,0,0,1,0,0,Critical
+Other,62,4,0,0,1,0,0,0,0,0,High
+Road Accident,57,1,0,0,0,1,1,0,1,0,Critical
+Other,15,1,0,0,0,0,0,0,0,0,High
+Fire/Disaster,18,2,0,0,1,0,0,1,1,0,Critical
+Fire/Disaster,80,2,0,0,0,0,1,0,0,1,High
+Stroke,21,1,0,0,0,0,0,0,0,0,Medium
+Fire/Disaster,58,1,0,0,0,0,0,0,0,1,Medium
+Other,16,1,0,1,0,1,0,0,1,0,Critical
+Heart Emergency,1,2,0,0,0,1,0,0,0,0,High
+Road Accident,82,1,0,0,0,1,0,0,1,0,High
+Other,91,4,0,0,0,0,0,0,0,0,Medium
+Heart Emergency,69,4,0,1,0,0,0,1,0,1,Critical
+Road Accident,57,1,1,0,0,1,1,0,1,0,Critical
+Heart Emergency,90,1,0,0,1,0,0,0,0,0,High
+Fire/Disaster,71,3,0,0,0,0,1,0,0,0,High
+Fire/Disaster,40,2,0,0,1,0,0,0,0,0,High
+Other,74,1,1,0,0,0,0,0,0,0,High
+Heart Emergency,22,2,0,0,0,1,0,1,0,1,Critical
+Heart Emergency,4,2,0,0,0,0,0,0,0,0,Medium
+Fire/Disaster,52,2,0,0,0,0,0,0,0,0,Medium
+Fire/Disaster,65,3,1,0,1,0,0,0,0,0,Critical
+Other,75,1,0,0,1,0,0,0,0,0,High
+Road Accident,56,3,0,1,1,1,0,0,1,0,Critical
+Heart Emergency,38,2,0,0,0,0,0,0,0,0,Medium
+Other,63,1,0,0,0,1,0,0,1,0,High
+Other,23,1,0,0,0,0,0,1,0,1,Medium
+Other,4,4,0,1,0,0,0,0,0,0,High
+Fire/Disaster,89,2,0,0,0,0,0,0,0,0,Medium
+Fire/Disaster,70,3,0,0,0,0,0,1,0,0,High
+Other,19,2,0,0,0,0,0,0,0,1,Medium
+Other,74,4,0,0,0,0,0,0,0,1,Medium
+Fire/Disaster,75,3,1,0,0,0,0,0,0,1,High
+Road Accident,91,1,0,0,1,1,0,0,0,0,Critical
+Stroke,77,1,1,0,0,0,0,0,1,0,Critical
+Stroke,30,4,0,1,0,0,0,0,1,0,Critical
+Other,3,3,0,0,0,1,1,1,1,0,Critical
+Heart Emergency,17,4,0,0,0,1,1,0,0,0,Critical
+Other,51,2,0,0,0,1,0,0,0,0,Medium
+Road Accident,43,2,1,0,0,0,0,0,1,1,High
+Fire/Disaster,4,2,0,0,0,0,0,1,0,0,High
+Stroke,52,2,0,0,1,0,0,0,0,0,High
+Heart Emergency,8,4,1,0,0,1,0,0,0,0,Critical
+Other,69,2,0,0,0,1,0,0,0,1,High
+Heart Emergency,65,4,1,0,1,0,0,0,0,0,Critical
+Fire/Disaster,67,1,0,0,0,0,0,0,1,0,Medium
+Fire/Disaster,43,1,0,1,0,0,0,0,0,0,High
+Fire/Disaster,61,2,1,0,0,0,0,0,0,0,High
+Stroke,54,1,1,0,0,0,1,1,0,0,Critical
+Fire/Disaster,22,1,0,0,0,0,0,1,0,0,Medium
+Fire/Disaster,25,1,0,0,0,0,0,1,0,0,Medium
+Other,34,1,0,0,0,0,0,0,0,1,Medium
+Other,44,4,0,0,0,1,0,1,0,0,Critical
+Fire/Disaster,78,1,0,0,0,0,1,0,0,0,High
+Stroke,48,2,0,0,0,0,0,0,1,0,Medium
+Fire/Disaster,37,3,1,0,1,1,0,0,0,0,Critical
+Stroke,84,2,0,0,0,0,0,0,1,0,High
+Other,5,1,0,0,0,0,0,0,1,0,Medium
+Stroke,79,1,0,0,1,0,0,0,1,0,Critical
+Fire/Disaster,17,1,1,0,0,0,1,0,1,0,Critical
+Road Accident,68,1,1,0,1,1,1,0,0,0,Critical
+Fire/Disaster,12,1,0,0,0,0,0,0,0,0,Medium
+Other,5,1,0,0,0,1,0,0,0,0,Medium
+Stroke,39,4,0,1,1,0,0,0,1,1,Critical
+Road Accident,71,3,0,0,0,0,0,0,0,1,Medium
+Other,66,4,0,0,1,1,1,0,0,0,Critical
+Stroke,69,2,1,0,0,0,1,1,0,1,Critical
+Fire/Disaster,4,1,0,0,0,0,0,0,1,0,Medium
+Other,95,1,1,0,0,1,1,0,0,0,Critical
+Other,21,1,0,0,0,0,0,0,0,0,Medium
+Other,7,2,1,0,0,0,0,0,0,1,High
+Heart Emergency,67,1,0,0,0,1,0,0,0,0,High
+Other,89,3,0,0,1,1,0,0,0,0,Critical
+Other,3,1,0,0,0,1,0,1,0,0,High
+Other,15,2,0,0,0,0,0,0,1,0,Medium
+Stroke,33,2,0,0,0,1,0,0,0,0,High
+Stroke,8,1,0,1,0,0,0,0,0,1,High
+Fire/Disaster,47,1,0,0,0,0,0,0,0,0,Medium
+Other,53,1,0,0,0,0,1,0,0,1,High
+Other,73,1,1,0,0,0,0,0,0,1,High
+Road Accident,59,1,0,0,0,0,1,0,0,0,High
+Fire/Disaster,91,2,0,0,0,0,0,0,0,1,Medium
+Stroke,34,2,0,1,1,0,1,0,0,1,Critical
+Fire/Disaster,21,4,0,0,0,0,0,0,0,0,Medium
+Road Accident,75,1,0,0,1,0,0,0,0,0,High
+Road Accident,39,1,0,0,0,0,0,0,0,0,Medium
+Road Accident,16,4,1,0,0,0,0,0,0,0,High
+Road Accident,93,1,0,0,1,0,0,0,0,0,High
+Fire/Disaster,18,4,0,0,0,0,1,0,0,0,High
+Stroke,57,1,0,0,0,0,0,0,1,1,High
+Stroke,22,3,0,0,0,1,1,0,0,0,Critical
+Road Accident,24,1,0,0,0,0,0,1,0,1,Medium
+Other,91,2,0,1,0,0,0,0,0,0,High
+Stroke,49,1,0,0,1,0,0,0,1,0,Critical
+Road Accident,24,1,0,1,0,0,0,0,1,1,High
+Stroke,49,2,0,0,0,1,1,0,0,0,Critical
+Other,66,3,0,0,0,0,0,1,0,1,High
+Stroke,72,3,0,0,0,0,0,0,1,1,High
+Heart Emergency,35,1,0,0,0,0,0,0,0,0,Medium
+Stroke,18,2,0,0,0,1,0,0,1,1,High
+Heart Emergency,68,1,0,0,1,0,0,0,0,1,High
+Fire/Disaster,26,1,0,1,1,0,1,0,1,0,Critical
+Road Accident,3,3,0,0,0,0,0,0,0,0,Medium
+Road Accident,46,1,0,0,0,0,0,0,0,0,Medium
+Road Accident,80,1,0,0,0,0,1,0,0,0,High
+Fire/Disaster,78,1,0,0,0,0,0,0,0,0,Medium
+Road Accident,30,1,0,0,0,0,0,0,1,1,Medium
+Fire/Disaster,15,1,0,0,1,0,0,0,0,1,High
+Heart Emergency,64,3,0,1,1,0,0,0,0,1,Critical
+Stroke,90,1,1,1,0,0,0,1,1,0,Critical
+Heart Emergency,34,1,0,0,0,0,0,0,0,1,Medium
+Fire/Disaster,76,4,0,0,1,0,0,0,0,0,High
+Fire/Disaster,23,1,1,0,0,0,1,0,0,0,Critical
+Stroke,14,4,0,0,0,0,0,1,0,0,High
+Stroke,38,4,0,0,0,0,0,0,0,0,Medium
+Fire/Disaster,89,3,0,0,0,0,0,1,0,0,High
+Other,24,1,1,0,1,0,0,0,0,0,Critical
+Fire/Disaster,88,1,0,0,1,1,0,0,0,0,Critical
+Fire/Disaster,38,1,0,0,0,0,1,0,0,0,High
+Other,14,1,0,0,0,0,0,0,1,0,Medium
+Road Accident,14,3,0,0,1,0,1,0,0,0,Critical
+Heart Emergency,79,1,1,0,1,0,0,0,0,0,Critical
+Road Accident,45,1,0,0,0,0,0,1,0,0,Medium
+Other,30,4,0,1,0,0,0,0,0,0,High
+Fire/Disaster,36,1,0,0,0,0,0,0,0,0,Medium
+Fire/Disaster,62,1,1,0,0,0,0,0,0,0,High
+Fire/Disaster,34,1,0,0,0,0,1,0,0,0,High
+Other,2,1,0,0,0,1,0,0,0,0,High
+Stroke,42,2,0,1,0,0,0,0,1,0,Critical
+Stroke,87,1,0,0,0,0,0,0,0,0,Medium
+Stroke,86,1,0,0,0,1,0,0,0,0,High
+Fire/Disaster,37,1,0,1,1,0,0,1,0,0,Critical
+Road Accident,49,1,0,0,0,0,0,0,0,0,Medium
+Stroke,38,3,0,0,0,0,0,0,1,0,High
+Heart Emergency,41,1,0,1,0,0,0,0,0,1,High
+Fire/Disaster,89,2,1,0,1,0,0,0,0,0,Critical
+Other,29,1,0,0,0,0,0,0,0,1,Medium
+Other,90,2,0,0,0,0,1,0,1,0,High
+Other,20,3,0,0,0,0,0,0,0,0,Medium
+Fire/Disaster,24,1,0,0,0,0,0,1,0,0,Medium
+Heart Emergency,22,1,0,0,0,0,1,0,0,0,High
+Stroke,65,1,0,0,0,0,0,0,0,0,Medium
+Stroke,79,2,0,0,0,0,0,0,0,0,Medium
+Heart Emergency,66,3,0,0,0,0,0,1,0,1,High
+Fire/Disaster,42,3,1,0,0,0,0,0,0,0,High
+Road Accident,69,2,1,0,0,0,0,0,0,0,High
+Stroke,23,2,0,0,0,0,1,0,1,0,Critical
+Fire/Disaster,47,1,1,0,0,1,0,1,0,0,Critical
+Heart Emergency,79,1,1,1,0,0,0,0,1,0,Critical
+Fire/Disaster,46,2,0,0,0,0,0,1,0,0,Medium
+Road Accident,67,3,0,0,0,0,0,0,0,0,Medium
+Other,81,1,0,0,0,1,0,0,0,0,High
+Fire/Disaster,83,1,1,0,0,1,0,0,0,0,Critical
+Stroke,92,2,0,0,1,0,0,0,0,0,Critical
+Road Accident,95,2,0,0,0,1,0,0,0,0,Critical
+Fire/Disaster,37,1,1,0,0,1,0,1,0,0,Critical
+Stroke,74,2,0,0,0,0,0,0,0,1,Medium
+Road Accident,69,4,1,0,1,0,0,0,0,0,Critical
+Fire/Disaster,59,1,0,0,0,1,1,0,0,0,Critical
+Heart Emergency,46,2,0,0,0,0,0,0,1,0,Medium
+Heart Emergency,27,1,0,1,0,0,0,0,0,0,High
+Road Accident,53,1,0,0,0,0,0,1,0,1,Medium
+Fire/Disaster,25,1,1,0,0,0,1,0,0,1,Critical
+Road Accident,29,1,0,0,0,0,0,0,1,0,High
+Road Accident,89,4,0,0,0,0,0,0,0,1,Medium
+Fire/Disaster,11,1,0,0,0,0,1,0,0,0,High
+Road Accident,34,1,0,0,0,1,0,0,0,0,Medium
+Road Accident,59,2,1,1,0,0,0,1,0,1,High
+Stroke,84,4,0,0,0,0,0,0,0,0,High
+Stroke,16,1,0,0,0,0,0,1,0,0,High
+Other,9,4,1,0,1,0,0,0,0,0,Critical
+Heart Emergency,37,1,0,0,0,0,0,0,0,0,Medium
+Heart Emergency,24,1,0,0,0,0,1,0,0,1,High
+Heart Emergency,61,4,0,0,0,0,1,1,0,0,Critical
+Fire/Disaster,36,4,0,0,0,0,0,0,0,0,Medium
+Road Accident,7,3,1,0,0,0,1,1,0,1,Critical
+Other,51,3,0,1,0,1,0,1,1,0,Critical
+Road Accident,3,1,1,0,0,0,0,0,0,0,High
+Stroke,44,2,0,0,1,0,0,0,1,0,Critical
+Heart Emergency,43,1,0,1,0,1,0,0,0,0,Critical
+Heart Emergency,18,3,0,1,0,0,0,1,1,0,Critical
+Other,30,4,0,0,0,0,1,0,0,0,High
+Fire/Disaster,86,3,0,0,0,1,0,0,0,0,High
+Heart Emergency,76,1,0,0,1,0,1,0,0,0,Critical
+Heart Emergency,55,1,0,0,0,0,0,0,0,0,Medium
+Fire/Disaster,51,2,0,1,0,0,0,0,0,1,High
+Fire/Disaster,50,3,0,0,0,1,0,0,0,0,High
+Road Accident,84,1,0,0,0,0,0,1,1,1,High
+Other,94,3,1,0,0,0,0,0,1,0,Critical
+Stroke,95,2,1,0,0,0,1,0,0,0,Critical
+Fire/Disaster,42,1,0,0,0,1,0,0,0,0,Medium
+Fire/Disaster,94,2,0,0,0,0,0,0,1,0,Medium
+Stroke,92,1,0,0,1,1,0,0,0,0,Critical
+Fire/Disaster,17,1,0,0,0,0,0,0,1,0,Medium
+Stroke,40,3,0,1,1,0,0,0,0,0,Critical
+Other,57,2,0,0,0,0,0,0,1,0,Medium
+Heart Emergency,40,1,0,0,0,0,0,0,1,0,Medium
+Fire/Disaster,16,3,0,0,0,0,1,0,0,0,High
+Fire/Disaster,73,2,0,0,0,0,0,0,0,1,Medium
+Road Accident,79,1,0,0,0,1,1,0,0,0,Critical
+Road Accident,87,1,0,1,1,1,0,1,0,0,Critical
+Other,48,3,0,0,0,0,1,1,0,1,High
+Road Accident,38,2,0,0,0,0,0,0,0,0,Medium
+Other,78,1,0,0,0,1,0,1,0,1,High
+Fire/Disaster,45,3,1,0,0,0,0,1,0,0,Critical
+Stroke,45,3,1,0,0,1,0,1,0,0,Critical
+Other,22,2,0,0,0,0,1,0,1,0,High
+Stroke,55,3,0,0,0,1,0,0,1,0,Critical
+Road Accident,57,2,0,0,0,0,0,0,1,0,Medium
+Stroke,95,1,0,0,1,0,0,1,1,0,Critical
+Stroke,45,1,0,0,0,0,0,0,0,0,Medium
+Fire/Disaster,4,2,0,0,1,0,0,0,0,0,High
+Heart Emergency,22,2,0,0,0,0,1,1,0,0,Critical
+Other,94,1,1,0,0,1,0,0,0,1,Critical
+Road Accident,51,3,0,0,0,1,0,0,0,0,High
+Heart Emergency,40,3,1,0,0,0,0,0,0,0,Critical
+Stroke,76,1,0,1,0,0,1,0,1,0,Critical
+Road Accident,9,1,0,0,0,0,0,0,1,0,Medium
+Fire/Disaster,3,1,0,0,0,1,0,0,0,0,High
+Other,78,2,0,0,0,0,0,0,0,0,Medium
+Other,69,1,0,0,0,0,0,0,0,0,Medium
+Heart Emergency,55,1,0,1,0,0,1,1,0,0,Critical
+Stroke,81,4,0,0,0,0,0,0,0,0,High
+Stroke,41,1,1,1,0,0,1,1,0,1,Critical
+Fire/Disaster,16,3,1,1,0,0,0,0,0,0,Critical
+Heart Emergency,80,4,0,0,0,0,1,0,0,1,Critical
+Other,10,3,0,1,0,0,0,0,0,0,High
+Other,86,2,0,1,0,0,0,0,0,1,High
+Other,29,3,1,1,1,0,0,0,1,0,Critical
+Other,10,1,0,0,0,0,0,1,0,0,Medium
+Fire/Disaster,23,4,0,0,0,0,0,0,0,1,Medium
+Fire/Disaster,51,1,0,1,1,0,0,0,0,0,Critical
+Heart Emergency,91,2,0,0,0,0,0,0,0,0,Medium
+Heart Emergency,83,2,0,0,0,1,0,0,0,1,High
+Other,91,4,0,1,1,0,0,0,0,0,Critical
+Road Accident,11,4,0,0,0,1,0,1,1,0,Critical
+Heart Emergency,32,4,0,0,0,1,0,0,0,1,High
+Other,16,1,0,0,0,0,0,0,0,0,Medium
+Stroke,81,2,0,0,0,0,0,1,1,0,High
+Stroke,26,2,1,0,0,0,0,0,0,0,High
+Heart Emergency,61,2,1,0,0,0,1,0,1,0,Critical
+Heart Emergency,92,3,0,0,0,1,0,1,0,0,Critical
+Road Accident,57,1,0,0,1,0,0,0,0,0,High
+Fire/Disaster,3,1,1,1,1,1,0,0,0,0,Critical
+Fire/Disaster,11,4,1,0,1,0,0,1,1,0,High
+Road Accident,81,1,0,0,0,0,1,0,0,0,High
+Other,76,3,0,0,1,0,0,0,0,1,High
+Fire/Disaster,7,1,0,0,0,0,0,0,0,0,Medium
+Fire/Disaster,63,2,1,0,0,0,1,0,0,0,Critical
+Fire/Disaster,91,1,0,0,0,0,0,0,0,1,Medium
+Fire/Disaster,29,2,1,0,0,0,0,0,0,1,High
+Other,15,1,0,0,0,0,0,0,0,0,Medium
+Other,13,1,0,1,0,0,0,0,0,0,High
+Other,31,1,0,0,0,0,0,0,0,0,Medium
+Stroke,44,1,0,0,0,0,0,0,0,0,Medium
+Fire/Disaster,23,1,1,1,0,0,0,0,0,0,Critical
+Stroke,91,3,1,0,0,0,1,0,0,0,Critical
+Other,73,2,0,0,0,0,1,1,0,0,Critical
+Heart Emergency,85,1,0,0,0,0,0,1,0,0,High
+Stroke,86,3,0,0,0,0,1,0,0,0,Critical
+Road Accident,39,2,1,1,1,0,1,0,0,1,High
+Other,37,1,0,0,0,0,1,0,0,0,High
+Heart Emergency,70,4,1,1,0,0,0,0,0,0,Critical
+Fire/Disaster,35,2,0,0,0,0,0,0,0,0,Medium
+Fire/Disaster,47,3,0,0,0,0,0,0,0,0,Medium
+Road Accident,92,2,0,0,0,0,0,0,0,1,Medium
+Fire/Disaster,8,1,0,0,0,0,0,1,1,1,High
+Road Accident,94,2,1,0,0,0,0,0,0,0,High
+Stroke,87,1,0,0,0,0,0,1,0,0,High
+Other,81,2,0,1,0,0,0,0,1,1,High
+Fire/Disaster,67,4,0,0,0,0,0,0,0,0,Medium
+Heart Emergency,26,1,0,0,0,0,0,0,1,1,Medium
+Other,63,2,0,0,0,0,0,1,0,0,Medium
+Heart Emergency,60,2,1,0,0,1,1,1,0,1,Critical
+Other,62,1,0,0,0,0,0,0,1,0,Medium
+Stroke,58,1,1,1,1,0,0,1,0,0,Critical
+Heart Emergency,62,2,0,0,0,1,0,0,0,1,High
+Road Accident,6,4,0,0,0,0,1,0,1,0,Critical
+Road Accident,2,2,1,0,0,1,0,0,1,0,Critical
+Fire/Disaster,20,4,1,1,0,0,1,0,1,0,Critical
+Other,75,1,0,0,0,1,0,0,0,0,High
+Stroke,95,2,0,0,0,0,0,0,0,0,Medium
+Road Accident,28,1,0,0,0,0,0,0,0,1,Medium
+Heart Emergency,84,2,0,0,0,0,0,1,0,1,High
+Other,53,2,0,0,0,1,0,0,1,0,High
+Stroke,4,4,0,0,0,0,0,0,0,0,High
+Road Accident,60,1,0,0,0,0,0,0,0,1,Medium
+Stroke,18,3,0,0,0,1,1,0,1,1,Critical
+Road Accident,4,1,1,0,0,0,0,0,1,1,High
+Stroke,64,2,0,0,0,0,0,0,0,0,Medium
+Stroke,62,1,0,0,0,0,0,1,0,0,High
+Road Accident,47,2,0,1,0,1,0,0,0,0,Critical
+Stroke,21,2,1,0,1,0,1,0,1,0,Critical
+Fire/Disaster,3,2,1,0,0,0,0,0,0,0,High
+Road Accident,8,2,0,0,1,0,0,0,1,0,High
+Stroke,11,3,0,0,0,1,0,0,0,0,High
+Stroke,8,1,1,0,0,0,0,0,1,1,Critical
+Stroke,61,1,0,0,1,0,0,0,1,1,Critical
+Stroke,85,1,1,0,0,0,0,0,0,0,High
+Road Accident,53,1,0,0,0,0,0,0,0,0,Medium
+Other,49,2,0,1,0,0,0,0,0,0,High
+Heart Emergency,19,3,0,0,1,1,0,0,0,0,Critical
+Stroke,19,1,0,0,0,0,0,0,0,0,High
+Fire/Disaster,8,1,0,0,0,0,0,0,0,0,Medium
+Road Accident,74,1,1,1,0,0,0,0,1,0,Critical
+Heart Emergency,33,4,1,0,0,0,0,1,0,0,Critical
+Heart Emergency,75,1,1,0,0,0,0,1,0,0,Critical
+Road Accident,34,1,0,0,0,0,1,0,0,0,High
+Other,42,3,0,0,0,1,0,0,0,0,High
+Stroke,91,4,0,1,1,0,0,1,1,0,Critical
+Other,63,1,0,0,0,0,0,1,0,1,Medium
+Fire/Disaster,42,2,0,0,1,0,0,0,0,0,High
+Road Accident,5,2,0,0,0,1,0,0,0,0,Medium
+Other,65,2,1,0,0,1,0,0,1,0,Critical
+Fire/Disaster,83,2,0,0,0,0,0,0,1,0,Medium
+Fire/Disaster,51,1,1,0,0,1,0,0,0,0,Critical
+Heart Emergency,68,1,0,0,0,0,0,1,0,0,High
+Fire/Disaster,34,2,0,0,0,0,0,0,0,0,Medium
+Stroke,2,1,0,1,0,0,0,1,0,0,Critical
+Fire/Disaster,57,4,0,0,0,0,0,0,0,0,Medium
+Other,53,2,0,0,1,0,0,1,0,1,Critical
+Stroke,43,2,0,0,0,0,0,0,0,0,Medium
+Heart Emergency,68,4,0,1,0,0,0,1,0,0,Critical
+Other,42,1,1,0,0,0,1,0,0,0,Critical
+Other,67,2,0,0,0,1,0,0,1,0,High
+Road Accident,11,4,0,0,0,1,0,0,0,0,High
+Heart Emergency,95,1,1,0,0,1,0,0,1,0,Critical
+Heart Emergency,27,1,1,0,1,0,0,0,0,0,Critical
+Stroke,8,2,0,0,0,0,1,0,0,0,High
+Other,69,3,1,0,1,0,0,0,0,0,Critical
+Heart Emergency,42,1,1,0,0,1,0,0,0,1,Critical
+Road Accident,50,2,0,0,0,0,0,0,0,0,Medium
+Road Accident,39,1,0,0,0,0,0,0,1,0,Medium
+Fire/Disaster,59,1,0,0,0,0,0,0,0,1,Medium
+Fire/Disaster,47,2,1,0,1,1,0,1,1,0,Critical
+Road Accident,29,1,0,0,0,0,0,0,0,1,Medium
+Fire/Disaster,76,2,0,0,0,0,1,1,0,0,High
+Fire/Disaster,72,2,0,0,0,0,0,0,0,0,Medium
+Other,57,1,1,0,0,0,0,0,0,0,High
+Fire/Disaster,30,2,0,1,0,1,0,0,0,1,Critical
+Fire/Disaster,34,4,0,0,0,0,0,1,0,0,High
+Stroke,77,2,0,0,0,0,0,0,0,1,Medium
+Stroke,17,1,0,0,1,0,1,1,0,1,Critical
+Fire/Disaster,29,4,0,0,0,0,0,0,0,0,Medium
+Stroke,60,1,0,0,1,0,1,0,0,0,Critical
+Road Accident,4,1,0,0,0,0,0,1,0,0,High
+Road Accident,49,3,0,0,0,0,0,0,0,0,Medium
+Stroke,68,2,0,1,0,1,0,1,0,0,Critical
+Heart Emergency,70,1,1,0,1,0,1,0,0,1,Critical
+Other,76,3,0,0,1,0,0,0,0,0,High
+Fire/Disaster,67,1,0,0,0,0,0,0,0,0,Medium
+Stroke,76,1,0,0,0,1,0,0,1,0,High
+Fire/Disaster,57,2,0,0,0,1,0,0,0,1,Medium
+Fire/Disaster,74,1,0,0,1,0,0,0,0,0,High
+Heart Emergency,17,3,0,0,0,0,0,0,0,0,Medium
+Heart Emergency,50,1,0,0,0,0,0,0,0,0,Medium
+Other,92,4,0,0,0,0,1,0,0,0,High
+Other,10,2,0,0,1,0,0,1,1,0,Critical
+Road Accident,15,3,0,0,0,1,1,0,1,0,Critical
+Fire/Disaster,64,4,0,0,1,1,1,0,0,0,Critical
+Heart Emergency,26,2,0,1,0,1,1,0,0,1,Critical
+Stroke,16,4,1,0,1,1,0,0,0,1,Critical
+Stroke,33,2,0,0,0,1,0,0,1,0,High
+Heart Emergency,30,1,1,0,0,0,0,0,0,1,High
+Road Accident,64,1,0,1,0,0,0,0,0,1,High
+Other,49,1,0,0,0,0,1,0,0,0,High
+Heart Emergency,28,1,1,1,0,0,1,1,0,1,Critical
+Fire/Disaster,41,1,0,0,0,0,0,0,0,0,Medium
+Heart Emergency,41,4,0,0,0,0,0,0,0,0,Medium
+Road Accident,7,2,1,1,0,0,0,1,1,0,Critical
+Heart Emergency,79,4,0,0,0,0,0,0,0,0,High
+Road Accident,72,3,1,0,1,0,1,0,0,0,Critical
+Stroke,54,3,0,0,0,0,1,0,0,0,Critical
+Fire/Disaster,26,3,0,0,0,0,0,0,0,0,Medium
+Fire/Disaster,90,2,0,0,0,0,0,0,0,1,Medium
+Other,2,1,1,0,0,0,0,1,0,0,Critical
+Heart Emergency,62,1,1,1,0,0,1,0,0,1,Critical
+Stroke,68,1,0,0,1,0,0,0,0,0,High
+Other,65,2,0,1,0,0,0,1,1,0,Critical
+Fire/Disaster,37,2,0,0,0,1,0,0,1,1,High
+Heart Emergency,81,4,0,0,0,0,1,1,0,0,Critical
+Stroke,79,1,0,1,1,0,1,0,0,0,Critical
+Road Accident,87,1,0,0,0,0,0,0,0,0,Medium
+Stroke,71,1,0,1,0,0,0,0,0,0,High
+Fire/Disaster,23,1,0,0,0,0,0,0,0,0,Medium
+Fire/Disaster,10,1,0,0,0,1,0,0,0,0,Medium
+Fire/Disaster,42,2,0,0,0,0,0,0,0,1,Medium
+Heart Emergency,37,1,0,0,0,0,0,1,0,1,High
+Other,45,1,1,0,0,0,1,1,0,0,Critical
+Road Accident,55,3,0,1,0,0,0,0,0,0,High
+Stroke,10,1,0,0,1,0,0,0,0,1,High
+Fire/Disaster,3,2,0,0,0,0,0,0,0,0,High
+Fire/Disaster,70,2,0,0,0,0,0,0,1,0,Medium
+Other,28,2,0,0,0,0,0,0,0,0,Medium
+Fire/Disaster,31,4,0,0,0,0,0,0,1,0,Medium
+Other,65,2,0,0,0,0,0,0,0,0,Medium
+Heart Emergency,80,1,0,0,0,0,0,0,0,0,Medium
+Heart Emergency,86,4,1,0,1,0,1,0,1,0,Critical
+Stroke,16,1,1,0,0,1,1,0,0,0,Critical
+Heart Emergency,13,1,0,0,0,0,1,0,0,0,High
+Road Accident,42,1,0,0,0,0,0,0,0,0,Medium
+Road Accident,60,1,0,0,0,1,0,0,1,0,High
+Fire/Disaster,15,2,1,0,0,0,0,1,0,0,Critical
+Fire/Disaster,38,2,0,0,1,0,0,0,1,0,High
+Fire/Disaster,83,1,1,1,0,1,0,1,1,0,Critical
+Other,13,3,0,0,0,0,0,0,0,1,High
+Heart Emergency,90,1,0,0,0,0,0,0,0,1,Medium
+Other,3,2,0,0,0,0,0,0,0,1,Medium
+Heart Emergency,81,4,0,0,0,0,0,0,0,0,High
+Other,24,1,0,1,0,0,1,0,1,1,Critical
+Stroke,9,2,0,0,0,0,1,1,0,0,Critical
+Other,90,1,0,0,0,0,1,0,0,0,High
+Heart Emergency,88,1,0,0,1,1,0,0,0,1,Critical
+Other,57,2,0,1,0,0,0,0,1,1,Critical
+Other,73,2,1,1,0,0,0,0,0,0,High
+Heart Emergency,28,3,0,0,0,0,0,0,0,1,Medium
+Heart Emergency,4,1,0,1,0,0,0,1,0,0,Critical
+Road Accident,90,2,0,0,0,0,0,0,1,0,Medium
+Road Accident,14,2,0,0,1,1,0,0,0,0,Critical
+Road Accident,58,1,0,0,1,0,0,0,0,0,High
+Stroke,29,1,1,0,0,0,0,0,0,0,High
+Road Accident,27,1,1,0,0,0,0,0,0,0,High
+Road Accident,55,2,0,0,0,1,0,0,1,0,High
+Stroke,68,1,0,0,0,0,0,0,0,0,Medium
+Stroke,26,4,0,0,0,1,1,0,0,1,Critical
+Fire/Disaster,19,1,0,0,0,0,1,1,0,1,Critical
+Stroke,63,1,0,1,0,0,1,0,0,0,Critical
+Road Accident,7,1,0,0,0,0,0,1,0,0,Medium
+Other,59,1,0,0,0,0,0,1,0,0,High
+Fire/Disaster,47,3,0,0,0,0,0,0,0,0,Medium
+Heart Emergency,35,2,0,0,0,0,0,0,0,0,Medium
+Heart Emergency,72,3,0,0,0,1,0,1,0,1,Critical
+Heart Emergency,84,1,0,1,0,0,0,0,0,0,High
+Heart Emergency,93,3,0,1,0,0,0,1,1,0,Critical
+Stroke,37,2,0,0,0,0,0,0,0,1,Medium
+Fire/Disaster,23,3,0,0,0,0,0,0,0,0,Medium
+Fire/Disaster,30,1,0,0,0,1,0,0,1,1,High
+Stroke,59,2,0,0,1,0,0,1,0,0,Critical
+Stroke,70,1,0,0,0,0,0,0,0,0,Medium
+Stroke,74,2,1,0,1,0,0,0,0,1,Critical
+Other,88,1,0,0,0,0,0,0,1,0,Medium
+Other,74,2,0,1,0,0,0,0,1,0,High
+Other,67,2,0,0,0,0,0,0,0,0,Medium
+Other,21,2,0,0,0,0,0,0,1,0,Medium
+Heart Emergency,74,1,0,1,0,0,0,0,1,0,Critical
+Stroke,15,3,0,0,0,0,0,0,1,0,High
+Fire/Disaster,49,1,0,1,0,0,0,0,0,1,Critical
+Other,73,4,0,0,0,0,0,0,0,0,Medium
+Road Accident,29,2,0,1,0,1,0,0,1,0,Critical
+Road Accident,89,3,0,0,0,0,0,0,1,0,High
+Fire/Disaster,25,4,0,0,0,1,0,0,0,0,High
+Other,68,1,0,0,1,0,0,0,0,1,High
+Fire/Disaster,95,2,0,0,0,0,0,1,1,1,High
+Other,49,1,0,0,0,0,0,0,0,0,Medium
+Heart Emergency,78,1,0,0,0,0,1,0,0,0,High
+Other,26,1,0,1,0,0,0,0,0,0,High
+Stroke,91,2,0,1,1,0,0,0,0,0,Critical
+Heart Emergency,54,1,0,0,0,1,0,1,0,0,Critical
+Stroke,51,1,0,0,0,0,0,0,1,1,Medium
+Heart Emergency,23,1,0,1,0,1,1,1,0,0,Critical
+Other,68,3,0,0,0,0,1,0,0,0,High
+Heart Emergency,21,3,0,0,0,0,0,0,0,0,Medium
+Road Accident,18,1,0,1,1,0,0,0,1,0,Critical
+Road Accident,45,1,0,1,0,0,0,0,0,0,High
+Stroke,45,2,0,1,1,0,1,0,1,1,Critical
+Other,41,2,0,1,0,0,0,0,0,1,High
+Other,91,1,0,0,0,0,1,1,0,0,Critical
+Heart Emergency,47,1,0,0,0,0,0,1,0,0,High
+Heart Emergency,38,4,0,0,0,0,0,0,0,1,Medium
+Road Accident,6,2,0,1,0,1,0,0,0,0,Critical
+Road Accident,83,1,0,0,0,0,0,0,0,0,Medium
+Road Accident,6,1,1,0,0,0,0,0,0,0,High
+Road Accident,53,1,0,0,1,0,0,0,0,0,High
+Road Accident,88,1,0,0,1,0,0,0,1,0,High
+Heart Emergency,88,2,0,0,0,0,0,0,0,0,Medium
+Other,87,4,0,0,1,0,0,0,0,1,High
+Heart Emergency,67,1,0,0,0,0,0,0,1,1,Medium
+Road Accident,71,2,0,0,0,0,0,0,0,0,Medium
+Road Accident,5,4,0,0,1,1,0,0,1,0,Critical
+Fire/Disaster,32,4,0,1,0,0,1,0,1,0,Critical
+Heart Emergency,47,2,0,1,0,0,0,0,0,0,High
+Stroke,91,3,0,0,0,0,0,0,0,0,High
+Other,37,1,0,0,0,0,0,1,0,1,Medium
+Fire/Disaster,72,4,0,0,0,0,0,0,0,0,Medium
+Heart Emergency,41,1,0,1,0,0,1,0,0,0,Critical
+Other,66,2,0,0,0,1,0,0,0,0,Medium
+Heart Emergency,57,2,1,0,0,0,0,0,0,0,High
+Road Accident,20,3,0,1,0,0,0,1,0,0,Critical
+Road Accident,54,3,1,0,0,0,1,0,1,0,Critical
+Other,36,4,0,1,0,0,0,0,0,0,High
+Stroke,20,1,0,0,0,0,0,0,0,1,Medium
+Other,62,1,0,0,1,0,1,1,0,0,Critical
+Other,84,1,1,0,0,0,0,0,0,0,High
+Road Accident,21,4,0,0,0,1,0,0,0,0,High
+Fire/Disaster,39,4,0,0,0,0,0,0,0,0,Medium
+Road Accident,30,2,0,0,0,0,0,1,0,0,Medium
+Other,5,4,0,0,0,0,1,0,0,0,High
+Stroke,5,1,0,0,0,0,0,1,0,0,High
+Other,85,1,0,0,0,0,0,0,0,0,Medium
+Fire/Disaster,74,2,0,0,0,0,1,0,0,0,High
+Heart Emergency,79,1,1,0,1,0,0,0,0,0,Critical
+Fire/Disaster,89,1,0,0,0,0,0,1,0,0,High
+Heart Emergency,33,1,0,0,0,0,0,0,1,1,Medium
+Fire/Disaster,13,1,0,1,0,0,0,0,0,0,High
+Heart Emergency,61,2,0,1,0,0,0,0,0,0,High
+Heart Emergency,9,2,0,1,1,0,0,0,0,1,Critical
+Fire/Disaster,49,2,1,1,0,1,0,0,0,0,Critical
+Fire/Disaster,44,1,0,0,0,0,0,0,0,0,Medium
+Stroke,40,2,1,0,1,0,0,0,1,0,Critical
+Other,70,1,1,0,1,0,1,0,0,1,Critical
+Stroke,23,1,1,0,1,0,0,0,0,1,Critical
+Fire/Disaster,12,3,0,1,0,0,0,0,1,0,Critical
+Fire/Disaster,52,2,1,0,0,0,0,0,0,0,High
+Road Accident,20,1,0,0,0,0,0,1,0,1,Medium
+Fire/Disaster,30,2,0,0,0,0,1,0,0,0,High
+Fire/Disaster,35,3,0,1,0,0,1,0,0,0,Critical
+Stroke,53,2,0,0,0,0,0,0,0,0,Medium
+Fire/Disaster,85,3,0,0,0,0,0,0,0,0,Medium
+Stroke,9,2,1,0,0,0,0,1,0,1,Critical
+Heart Emergency,24,2,0,0,0,0,0,0,0,0,Medium
+Stroke,71,1,0,0,0,1,0,0,0,1,High
+Other,44,1,0,0,0,1,0,0,0,1,Medium
+Fire/Disaster,72,4,0,0,0,0,0,0,0,0,Medium
+Other,23,3,1,0,0,0,0,0,0,0,High
+Road Accident,64,2,0,0,1,0,0,1,0,0,Critical
+Stroke,14,1,0,0,0,0,0,0,0,1,Medium
+Other,73,1,1,0,0,1,0,1,0,0,Critical
+Road Accident,95,1,0,0,0,0,0,0,0,1,Medium
+Fire/Disaster,28,1,0,0,0,0,0,1,0,0,Medium
+Heart Emergency,44,1,0,0,0,0,0,0,0,0,Medium
+Road Accident,8,1,0,0,0,0,1,0,0,0,High
+Other,16,1,0,1,0,0,0,0,0,1,High
+Stroke,95,1,0,0,0,1,0,0,0,0,High
+Road Accident,55,2,0,0,0,0,0,0,0,1,Medium
+Fire/Disaster,44,1,0,0,0,1,0,0,0,1,Medium
+Road Accident,90,1,0,1,0,0,0,0,0,0,High
+Other,41,2,0,1,0,0,0,0,1,0,High
+Heart Emergency,53,1,0,0,0,0,0,0,0,0,Medium
+Stroke,43,3,0,0,0,0,1,0,0,0,Critical
+Stroke,7,1,0,0,1,0,0,0,0,0,High
+Road Accident,71,3,1,0,0,0,0,0,0,0,High
+Road Accident,59,1,0,0,0,0,0,1,0,1,Medium
+Heart Emergency,47,1,0,0,0,0,0,1,0,0,Critical
+Fire/Disaster,18,2,0,0,0,0,0,0,0,0,Medium
+Road Accident,61,2,0,0,0,0,1,1,0,0,Critical
+Heart Emergency,53,2,0,0,1,1,0,1,0,0,Critical
+Other,2,2,0,0,0,0,0,0,0,0,Medium
+Heart Emergency,49,3,0,0,0,0,1,0,0,0,Critical
+Fire/Disaster,70,3,0,0,0,0,0,0,0,0,Medium
+Other,9,1,0,0,0,0,0,0,0,0,Medium
+Other,20,3,0,0,0,0,1,0,0,1,High
+Fire/Disaster,31,2,0,0,0,0,0,0,0,1,Medium
+Heart Emergency,46,1,0,0,0,0,0,0,1,0,Medium
+Heart Emergency,28,2,1,0,0,0,0,0,0,0,High
+Heart Emergency,6,3,0,0,0,0,0,0,0,0,Medium
+Fire/Disaster,68,2,0,0,0,1,0,1,0,0,High
+Other,14,1,0,0,0,0,0,0,1,1,Medium
+Other,92,3,0,0,1,0,0,0,1,0,Critical
+Fire/Disaster,82,4,0,0,0,0,0,0,0,0,Medium
+Fire/Disaster,48,4,0,0,0,0,0,0,0,0,Medium
+Stroke,73,2,0,0,0,0,1,0,0,0,High
+Stroke,34,2,0,0,0,0,1,0,1,0,Critical
+Road Accident,90,1,0,0,0,1,0,1,0,0,High
+Fire/Disaster,34,1,0,0,1,1,0,0,1,0,Critical
+Fire/Disaster,54,1,0,1,0,1,0,1,1,1,Critical
+Road Accident,35,4,0,0,1,0,0,0,0,0,High
+Road Accident,76,1,1,0,0,0,1,0,0,0,Critical
+Other,3,4,0,1,0,0,0,0,0,0,High
+Road Accident,78,1,0,0,0,0,0,0,0,1,Medium
+Heart Emergency,41,1,0,0,0,0,0,0,1,1,Medium
+Other,40,2,0,1,0,0,0,0,0,1,High
+Other,48,1,0,0,1,0,0,0,1,0,High
+Fire/Disaster,71,1,0,0,0,0,0,0,0,0,Medium
+Heart Emergency,23,2,1,0,0,0,0,0,1,0,Critical
+Heart Emergency,83,2,0,0,0,0,0,0,0,0,Medium
+Road Accident,51,4,0,0,1,0,0,0,0,1,High
+Fire/Disaster,68,1,0,0,0,0,1,0,1,0,High
+Stroke,68,1,1,1,1,0,0,1,0,0,Critical
+Other,48,4,0,1,1,0,0,1,1,0,Critical
+Other,1,2,1,0,0,0,0,1,0,1,Critical
+Other,12,2,0,1,0,0,1,0,0,0,Critical
+Road Accident,68,2,0,0,0,1,1,0,0,0,Critical
+Stroke,72,1,1,1,0,0,1,0,0,1,Critical
+Road Accident,62,1,0,0,0,1,0,0,0,0,Medium
+Fire/Disaster,53,2,1,0,0,1,0,0,1,0,High
+Fire/Disaster,39,1,0,1,0,0,0,0,1,0,High
+Heart Emergency,1,1,0,0,0,0,0,0,0,1,Medium
+Heart Emergency,72,3,0,0,0,0,0,0,0,0,High
+Stroke,55,1,0,0,0,0,0,0,0,1,Medium
+Road Accident,84,1,0,1,0,1,0,0,1,0,Critical
+Road Accident,29,1,0,1,0,0,0,1,0,0,Critical
+Road Accident,31,3,0,0,1,0,0,0,0,0,High
+Heart Emergency,78,1,0,0,0,0,1,1,0,1,Critical
+Other,5,1,0,0,0,0,1,0,0,0,High
+Fire/Disaster,12,3,0,0,0,0,1,0,1,0,Critical
+Stroke,6,1,1,0,1,1,0,0,0,1,Critical
+Heart Emergency,65,1,0,0,0,1,1,0,0,1,Critical
+Fire/Disaster,49,1,1,0,0,0,0,0,0,0,High
+Stroke,20,1,0,0,0,0,0,0,0,0,Medium
+Heart Emergency,90,1,0,0,0,1,1,1,1,0,Critical
+Fire/Disaster,53,1,0,0,0,0,0,1,0,0,Medium
+Heart Emergency,15,1,0,0,1,0,0,0,0,1,High
+Stroke,82,2,0,0,0,0,0,1,0,1,High
+Stroke,15,3,0,0,0,1,0,1,0,0,Critical
+Fire/Disaster,93,1,0,0,0,1,0,0,0,0,High
+Stroke,67,3,0,1,1,0,0,0,0,0,Critical
+Other,61,4,0,0,0,0,0,1,0,0,High
+Stroke,78,3,0,0,0,1,0,0,0,1,High
+Heart Emergency,92,1,1,0,0,1,0,0,0,0,Critical
+Road Accident,84,1,1,0,0,0,0,0,1,1,High
+Stroke,88,2,0,0,0,1,0,0,0,0,High
+Stroke,35,2,1,0,0,0,0,0,1,0,Critical
+Fire/Disaster,11,1,0,0,1,0,0,0,0,0,High
+Fire/Disaster,29,2,1,0,0,1,0,0,0,1,Critical
+Road Accident,10,1,0,0,0,0,0,1,1,0,High
+Fire/Disaster,84,3,0,0,0,0,0,0,0,0,Medium
+Stroke,28,2,0,0,0,0,0,0,0,0,Medium
+Road Accident,25,1,0,0,1,0,0,0,1,0,High
+Other,79,1,1,0,0,0,0,0,0,0,High
+Fire/Disaster,39,2,0,0,0,1,0,0,0,0,Medium
+Heart Emergency,61,4,0,0,0,0,0,0,0,0,Medium
+Stroke,81,2,1,0,0,0,0,1,0,0,Critical
+Fire/Disaster,93,2,0,0,1,0,0,0,0,0,High
+Fire/Disaster,10,1,0,0,0,0,0,0,0,0,Medium
+Road Accident,85,1,0,0,0,0,1,0,0,0,High
+Other,60,1,0,1,1,0,0,0,0,0,Critical
+Fire/Disaster,42,1,1,0,0,0,0,0,0,0,High
+Other,67,2,0,0,0,0,1,0,1,0,High
+Road Accident,24,2,0,1,0,0,0,0,0,0,High
+Road Accident,4,1,0,1,0,0,0,0,0,0,High
+Other,27,2,0,1,0,1,0,0,0,0,Critical
+Heart Emergency,37,2,0,0,0,0,1,0,0,1,High
+Road Accident,17,3,0,0,1,0,0,0,0,0,High
+Other,56,1,0,0,1,0,0,0,1,0,High
+Other,53,2,0,0,0,0,0,0,0,0,High
+Heart Emergency,75,2,0,1,0,0,0,0,0,0,High
+Stroke,49,1,0,0,0,0,0,1,1,0,High
+Road Accident,6,1,0,0,0,0,0,0,1,1,Medium
+Heart Emergency,49,1,0,0,1,0,0,0,0,0,High
+Stroke,39,1,0,0,1,0,0,0,0,0,High
+Stroke,73,2,0,0,1,1,0,0,1,1,Critical
+Road Accident,77,2,0,0,0,1,0,0,0,0,High
+Stroke,21,3,0,0,0,0,0,0,0,0,Medium
+Road Accident,27,1,0,0,1,0,0,0,0,1,High
+Road Accident,20,3,0,0,0,1,1,0,0,0,Critical
+Heart Emergency,12,4,0,0,1,0,0,0,1,0,Critical
+Fire/Disaster,8,1,0,1,0,0,0,0,0,0,High
+Stroke,47,3,1,0,0,0,0,0,1,1,High
+Road Accident,51,1,0,0,0,0,1,0,0,0,High
+Fire/Disaster,11,4,1,0,0,0,0,0,0,0,High
+Heart Emergency,87,2,0,0,1,1,0,0,0,0,Critical
+Road Accident,50,2,0,0,0,0,0,0,0,1,Medium
+Road Accident,42,2,0,0,0,0,0,0,0,0,Medium
+Road Accident,78,1,1,1,0,0,0,0,0,0,Critical
+Road Accident,92,3,1,0,0,0,0,0,0,1,High
+Fire/Disaster,39,4,0,0,0,0,0,1,0,0,High
+Stroke,80,3,0,0,0,0,0,1,1,0,Critical
+Other,72,3,0,0,0,0,0,0,0,1,Medium
+Fire/Disaster,37,2,0,0,0,1,0,0,0,0,Medium
+Fire/Disaster,38,2,1,0,1,0,0,0,0,0,Critical
+Other,35,4,1,0,0,0,0,0,0,1,High
+Heart Emergency,8,2,0,1,0,1,0,0,1,0,Critical
+Heart Emergency,7,1,0,1,0,0,0,0,0,0,High
+Heart Emergency,11,1,0,1,1,0,0,0,0,0,Critical
+Stroke,50,1,1,0,1,0,0,0,0,1,Critical
+Stroke,28,2,0,0,0,0,0,0,0,1,Medium
+Heart Emergency,82,4,0,1,0,0,1,0,0,0,Critical
+Fire/Disaster,39,1,0,0,0,0,0,1,0,0,Medium
+Fire/Disaster,3,1,0,0,0,1,0,0,0,0,High
+Heart Emergency,85,2,0,0,0,0,0,0,0,0,Medium
+Heart Emergency,76,1,0,0,0,0,0,0,0,0,Medium
+Stroke,40,1,0,1,1,1,1,0,0,0,Critical
+Other,25,2,0,0,0,0,0,0,1,0,Medium
+Road Accident,41,1,0,1,1,1,0,0,0,1,Critical
+Heart Emergency,84,3,1,0,0,0,0,0,0,0,Critical
+Road Accident,73,2,0,0,0,1,0,0,0,1,High
+Other,58,2,0,0,0,0,0,0,1,0,Medium
+Heart Emergency,45,3,0,0,1,0,1,0,0,0,Critical
+Road Accident,46,2,0,0,0,0,0,0,0,0,Medium
+Fire/Disaster,84,3,1,0,0,1,0,1,0,0,Critical
+Stroke,70,4,0,0,0,0,0,0,0,1,High
+Heart Emergency,67,2,0,0,1,0,1,0,0,0,Critical
+Road Accident,5,1,0,0,0,0,0,0,0,0,Medium
+Other,9,2,0,0,0,0,0,0,0,0,High
+Other,79,2,0,1,0,0,0,0,0,0,High
+Other,5,1,0,0,1,0,0,1,0,0,Critical
+Road Accident,67,1,0,0,0,0,0,0,0,1,Medium
+Road Accident,29,2,1,0,0,0,0,1,1,0,Critical
+Stroke,87,1,0,0,0,0,0,0,0,1,Medium
+Road Accident,46,3,0,0,0,0,0,0,0,0,Medium
+Road Accident,23,2,0,0,1,0,0,0,0,1,High
+Heart Emergency,18,2,0,0,1,0,0,1,0,0,Critical
+Road Accident,74,3,0,0,0,1,1,1,1,1,Critical
+Road Accident,29,2,0,0,0,0,0,0,1,0,Medium
+Other,15,3,1,0,0,1,0,0,0,0,Critical
+Fire/Disaster,91,2,0,0,0,0,0,0,0,0,Medium
+Fire/Disaster,93,2,1,0,0,1,0,0,1,1,Critical
+Heart Emergency,72,2,0,0,0,0,0,0,0,0,Medium
+Fire/Disaster,42,3,0,0,0,0,0,0,0,0,Medium
+Road Accident,73,4,1,0,0,0,0,0,0,0,High
+Stroke,95,3,0,0,1,0,1,1,0,1,Critical
+Other,21,1,1,0,0,0,0,0,1,0,High
+Fire/Disaster,73,1,1,1,1,1,0,0,0,0,Critical
+Heart Emergency,23,4,1,1,0,0,0,0,0,1,Critical
+Road Accident,68,2,0,0,0,0,0,0,0,1,Medium
+Other,76,1,0,0,0,1,0,0,1,0,High
+Fire/Disaster,27,3,0,0,0,0,0,1,1,0,High
+Fire/Disaster,15,2,0,0,0,0,0,1,0,0,Medium
+Fire/Disaster,81,1,0,1,0,0,0,0,1,0,High
+Road Accident,47,1,0,0,0,0,0,0,0,0,Medium
+Other,88,2,1,0,0,0,0,0,0,0,High
+Fire/Disaster,45,1,0,0,0,0,0,0,0,1,Medium
+Other,62,2,1,0,0,0,0,0,0,0,High
+Heart Emergency,63,1,0,0,0,0,1,0,0,0,High
+Fire/Disaster,9,1,1,0,0,1,1,0,0,1,Critical
+Heart Emergency,22,1,0,1,0,0,0,0,0,0,High
+Road Accident,24,1,0,0,0,0,0,0,0,0,Medium
+Other,93,1,0,0,0,0,0,0,0,0,Medium
+Road Accident,8,2,0,1,0,0,1,0,1,0,Critical
+Other,64,2,0,0,0,0,0,0,0,0,Medium
+Heart Emergency,2,2,0,1,0,0,0,0,0,1,High
+Road Accident,23,4,0,0,0,0,0,0,0,0,Medium
+Heart Emergency,1,3,0,0,1,0,1,1,0,0,Critical
+Other,74,4,1,0,0,0,0,1,1,0,Critical
+Heart Emergency,26,1,0,0,0,0,1,0,0,0,High
+Fire/Disaster,33,3,0,0,0,0,0,0,1,1,Medium
+Road Accident,2,1,0,0,0,0,1,1,0,0,Critical
+Heart Emergency,56,2,1,0,0,0,0,0,0,1,High
+Other,54,1,0,0,0,0,0,1,0,0,Medium
+Heart Emergency,57,1,0,0,0,0,0,0,0,0,Medium
+Fire/Disaster,55,1,0,0,0,0,0,0,0,1,Medium
+Fire/Disaster,44,2,0,0,0,0,0,0,0,0,Medium
+Stroke,86,1,0,0,0,0,0,0,0,0,Medium
+Stroke,92,2,1,1,1,0,0,0,0,1,Critical
+Other,53,1,0,0,0,0,0,1,0,0,Medium
+Heart Emergency,84,2,0,0,0,0,0,0,0,0,Medium
+Heart Emergency,21,3,0,0,0,1,1,0,1,1,Critical
+Heart Emergency,26,4,1,0,1,0,0,0,1,0,Critical
+Road Accident,33,2,0,0,0,0,0,0,0,0,Medium
+Other,35,4,0,0,0,0,0,0,1,0,Medium
+Heart Emergency,79,1,0,1,0,1,0,0,0,0,Critical
+Heart Emergency,58,2,1,0,0,0,0,0,0,0,High
+Heart Emergency,28,4,1,1,0,1,1,1,0,1,Critical
+Other,59,1,0,0,0,1,0,0,0,0,Medium
+Heart Emergency,87,4,1,1,0,1,0,0,0,1,Critical
+Heart Emergency,84,1,1,0,0,0,0,0,0,1,High
+Fire/Disaster,40,3,0,1,0,0,0,0,0,0,High
+Fire/Disaster,91,1,0,0,0,0,0,0,0,1,Medium
+Other,27,3,0,0,0,0,0,0,0,0,Medium
+Heart Emergency,82,1,1,0,0,1,1,0,0,0,Critical
+Heart Emergency,24,2,0,0,0,0,0,0,0,0,Medium
+Other,61,1,1,0,0,0,0,0,0,0,High
+Fire/Disaster,63,4,1,0,0,0,0,0,1,0,Critical
+Other,66,2,0,0,1,0,0,0,0,0,High
+Fire/Disaster,48,1,0,0,0,0,0,0,0,1,Medium
+Stroke,57,2,0,0,0,0,0,0,0,0,Medium
+Stroke,45,1,0,0,1,0,0,0,1,0,Critical
+Stroke,21,3,0,0,0,0,0,0,0,1,High
+Stroke,63,1,0,1,0,1,0,0,0,0,Critical
+Other,28,2,0,0,0,0,0,0,0,0,Medium
+Heart Emergency,62,1,0,0,0,0,0,0,0,0,Medium
+Fire/Disaster,41,1,0,1,0,0,1,1,0,1,Critical
+Heart Emergency,43,1,0,0,0,1,0,0,0,0,High
+Other,46,1,1,0,1,0,0,0,1,0,Critical
+Stroke,78,2,0,0,0,0,0,0,0,0,Medium
+Heart Emergency,94,4,0,0,0,0,1,0,0,1,Critical
+Road Accident,14,1,0,0,1,0,0,0,1,0,High
+Stroke,65,4,0,0,0,0,0,0,0,0,Medium
+Fire/Disaster,48,2,0,1,1,0,1,1,0,0,Critical
+Other,64,1,0,0,1,0,0,0,1,1,High
+Fire/Disaster,50,2,0,1,0,0,0,1,0,0,Critical
+Fire/Disaster,94,2,0,0,1,0,0,0,1,0,High
+Heart Emergency,89,3,1,0,0,0,0,0,1,0,Critical
+Stroke,67,1,1,0,0,0,0,1,0,1,Critical
+Stroke,74,2,1,0,1,0,0,0,0,1,Critical
+Stroke,1,1,0,0,0,0,0,1,0,0,High
+Heart Emergency,36,4,1,0,1,0,0,0,1,0,Critical
+Heart Emergency,81,1,0,0,0,0,0,1,0,0,High
+Fire/Disaster,38,2,0,0,0,0,0,1,0,0,Medium
+Other,16,1,0,0,0,0,1,0,0,0,High
+Fire/Disaster,79,1,0,0,1,0,0,0,0,0,High
+Road Accident,63,1,1,0,0,1,0,1,1,0,Critical
+Road Accident,60,2,0,0,1,0,0,0,0,0,High
+Other,9,2,0,0,1,0,0,0,0,1,High
+Other,45,1,0,0,0,0,1,0,0,0,High
+Fire/Disaster,72,3,0,0,0,0,0,0,0,0,Medium
+Stroke,63,2,0,0,0,0,0,0,0,0,Medium
+Stroke,19,2,0,0,0,0,0,0,0,0,Medium
+Fire/Disaster,80,1,0,0,0,1,0,0,0,0,High
+Other,44,2,0,0,0,0,0,1,0,0,Medium
+Fire/Disaster,67,2,0,0,0,0,0,0,0,0,Medium
+Stroke,34,1,0,0,0,0,0,0,0,0,Medium
+Other,37,2,0,1,0,0,0,0,0,0,High
+Stroke,61,2,0,0,0,0,0,0,0,0,Medium
+Fire/Disaster,95,1,0,0,0,0,0,0,1,0,Medium
+Road Accident,16,2,0,0,0,0,0,0,0,0,Medium
+Fire/Disaster,72,3,0,0,0,1,0,0,1,1,High
+Heart Emergency,92,2,0,0,0,0,0,0,0,1,Medium
+Road Accident,67,2,0,0,1,1,0,0,0,0,Critical
+Other,80,1,0,1,0,0,0,0,0,0,High
+Other,29,3,0,0,0,0,0,0,1,0,High
+Fire/Disaster,19,3,0,0,0,0,0,1,0,0,High
+Other,14,4,1,0,1,0,0,0,0,0,Critical
+Stroke,54,1,0,0,1,0,0,1,0,0,Critical
+Road Accident,12,2,0,0,0,1,0,0,0,0,Medium
+Stroke,13,2,0,1,0,0,0,0,1,0,Critical
+Other,3,4,0,0,1,0,0,0,0,0,High
+Other,46,2,0,1,0,0,0,0,1,0,High
+Fire/Disaster,24,1,1,1,0,0,0,1,1,1,Critical
+Road Accident,15,2,0,0,0,1,0,0,0,0,Medium
+Heart Emergency,80,2,0,0,0,0,0,0,0,1,Medium
+Stroke,45,1,0,0,1,0,0,0,1,0,Critical
+Heart Emergency,54,1,0,0,0,0,0,0,0,0,Medium
+Stroke,90,3,0,0,0,0,0,0,0,0,High
+Stroke,26,2,0,0,0,1,0,0,0,0,High
+Heart Emergency,28,2,0,1,0,0,0,0,0,1,High
+Heart Emergency,51,4,0,0,0,0,1,0,0,0,Critical
+Stroke,55,1,0,0,0,0,0,0,0,0,Medium
+Road Accident,65,1,0,0,0,0,0,0,1,1,Medium
+Other,37,2,0,0,0,0,1,0,0,0,Critical
+Other,16,1,1,0,1,0,0,0,0,0,Critical
+Road Accident,70,2,0,0,0,0,0,0,0,0,Medium
+Stroke,93,2,0,0,0,0,1,0,0,1,High
+Fire/Disaster,49,2,1,0,0,0,0,1,1,0,Critical
+Road Accident,90,4,0,1,0,0,0,0,0,0,High
+Stroke,89,3,1,0,0,0,1,0,0,0,Critical
+Other,88,2,0,0,0,0,0,0,0,0,Medium
+Heart Emergency,41,4,0,0,0,0,0,0,1,1,High
+Fire/Disaster,1,2,1,0,0,0,0,0,0,1,Critical
+Heart Emergency,89,1,0,0,0,0,1,0,1,0,Critical
+Fire/Disaster,91,4,1,1,0,0,1,0,0,0,Critical
+Other,63,2,0,0,0,0,1,0,0,0,High
+Other,28,4,0,0,0,0,0,0,0,1,Medium
+Fire/Disaster,33,1,0,0,0,1,0,0,0,1,Medium
+Heart Emergency,19,4,0,0,0,0,0,0,1,1,Critical
+Fire/Disaster,42,1,0,0,0,1,0,0,0,1,Medium
+Stroke,8,3,0,1,0,0,0,1,0,0,Critical
+Stroke,19,1,0,0,0,0,1,0,0,1,High
+Other,9,1,0,1,1,0,0,1,0,1,Critical
+Stroke,13,1,0,0,0,0,1,0,0,0,High
+Fire/Disaster,45,3,0,0,0,0,0,0,0,1,Medium
+Other,72,4,0,0,0,0,0,0,0,0,Medium
+Other,10,1,0,0,1,1,1,0,0,1,Critical
+Fire/Disaster,81,3,0,0,1,0,0,0,1,0,Critical
+Other,4,3,0,0,0,0,0,1,0,0,High
+Heart Emergency,95,3,0,0,1,0,0,0,0,0,Critical
+Stroke,78,2,0,0,0,0,0,0,0,0,Medium
+Road Accident,73,3,0,0,0,1,0,0,0,1,High
+Road Accident,63,3,0,0,0,0,1,0,0,0,High
+Fire/Disaster,88,3,1,0,0,0,0,0,1,0,Critical
+Other,11,2,0,0,0,0,0,1,0,0,Medium
+Other,45,3,0,1,0,0,0,0,0,0,High
+Road Accident,83,2,1,0,0,0,1,1,0,0,Critical
+Fire/Disaster,84,1,0,0,1,0,0,0,0,1,High
+Other,11,1,0,0,0,1,0,0,1,0,High
+Fire/Disaster,35,4,0,0,0,0,0,0,0,0,Medium
+Other,79,1,0,0,0,0,0,0,1,0,Medium
+Road Accident,91,1,1,0,0,1,1,0,0,1,Critical
+Road Accident,87,1,0,0,1,0,0,1,1,1,Critical
+Fire/Disaster,26,1,0,0,0,0,0,0,0,0,Medium
+Stroke,37,4,0,0,1,0,0,0,0,1,Critical
+Fire/Disaster,6,2,1,0,1,1,0,0,1,1,Critical
+Other,5,1,0,0,0,0,0,0,0,1,Medium
+Road Accident,43,1,0,0,0,0,0,0,0,0,Medium
+Stroke,19,1,0,0,0,1,1,1,0,0,Critical
+Stroke,25,1,0,0,0,0,0,1,0,0,High
+Fire/Disaster,8,3,0,1,1,1,0,0,0,1,Critical
+Heart Emergency,69,2,0,0,0,0,0,0,0,0,Medium
+Other,66,3,0,0,0,0,0,0,0,0,Medium
+Road Accident,51,2,0,0,0,0,1,0,0,1,High
+Road Accident,50,4,1,0,0,0,0,0,0,0,High
+Fire/Disaster,48,2,0,0,0,0,0,0,1,0,Medium
+Heart Emergency,28,2,0,1,0,0,0,0,0,0,High
+Stroke,12,4,0,0,0,0,0,0,1,0,High
+Other,44,1,0,0,0,0,0,0,0,1,Medium
+Other,95,2,1,0,0,0,0,0,0,0,High
+Fire/Disaster,80,4,0,0,0,0,0,0,0,0,Medium
+Stroke,73,2,0,0,0,1,0,0,0,1,High
+Fire/Disaster,57,1,1,0,0,0,0,0,1,0,High
+Road Accident,8,1,0,0,0,0,0,0,0,0,Medium
+Road Accident,61,1,1,0,0,0,1,1,1,0,Critical
+Heart Emergency,9,4,0,0,0,0,0,0,0,1,Medium
+Fire/Disaster,72,4,0,0,0,0,1,0,0,0,High
+Heart Emergency,27,2,1,0,0,0,0,0,0,0,High
+Fire/Disaster,74,1,0,0,0,0,0,0,0,1,Medium
+Heart Emergency,92,1,0,0,1,1,0,0,1,0,Critical
+Fire/Disaster,50,1,0,0,0,0,0,0,0,0,Medium
+Heart Emergency,78,1,0,0,0,0,0,0,0,0,Medium
+Stroke,70,2,0,0,0,0,0,0,0,0,Medium
+Stroke,88,4,0,0,0,0,1,0,0,0,Critical
+Stroke,43,2,0,0,0,1,0,1,0,0,Critical
+Stroke,17,1,0,0,0,0,0,0,1,0,Medium
+Road Accident,53,3,0,1,0,0,1,1,0,0,Critical
+Stroke,36,2,0,0,0,0,0,0,0,0,Medium
+Fire/Disaster,21,2,0,0,0,1,0,0,0,0,Medium
+Road Accident,4,2,0,0,0,0,0,0,0,0,Medium
+Road Accident,83,1,1,0,0,0,0,0,0,1,High
+Heart Emergency,83,3,0,0,0,0,0,1,0,0,High
+Heart Emergency,6,4,0,1,1,0,0,0,1,0,Critical
+Heart Emergency,81,2,0,0,0,1,0,0,1,0,High
+Fire/Disaster,61,1,0,1,0,0,1,0,1,0,Critical
+Road Accident,17,4,0,0,0,0,0,0,0,1,Medium
+Road Accident,76,4,0,0,1,0,0,0,0,0,High
+Road Accident,77,3,0,0,0,0,0,0,0,0,Medium
+Road Accident,86,2,0,0,0,0,1,1,1,0,Critical
+Other,69,3,0,1,0,0,0,0,0,0,Critical
+Heart Emergency,2,2,1,0,1,0,0,1,0,0,Critical
+Stroke,55,1,0,0,0,0,0,0,0,0,Medium
+Heart Emergency,7,3,0,1,0,0,0,1,1,0,Critical
+Fire/Disaster,31,2,0,1,1,0,0,0,1,0,Critical
+Heart Emergency,37,1,0,0,0,1,1,0,1,0,Critical
+Other,27,1,0,0,0,0,0,0,0,0,Medium
+Heart Emergency,58,1,0,0,0,0,0,0,0,1,Medium
+Heart Emergency,72,1,0,0,1,0,0,0,0,0,High
+Other,80,2,1,0,1,0,0,0,0,1,High
+Road Accident,70,1,1,0,0,0,0,0,0,0,High
+Stroke,84,1,0,0,0,1,0,0,0,0,High
+Heart Emergency,69,1,0,0,0,0,0,0,0,0,Medium
+Heart Emergency,73,1,1,0,0,0,0,1,0,0,Critical
+Fire/Disaster,12,2,1,0,0,0,0,0,0,0,High
+Stroke,44,3,0,0,0,1,1,0,0,0,Critical
+Fire/Disaster,2,2,1,0,0,1,0,1,1,0,Critical
+Stroke,44,1,0,1,0,1,1,0,0,0,Critical
+Other,72,2,0,0,0,0,0,0,0,1,Medium
+Stroke,32,4,0,0,0,0,0,0,0,0,Medium
+Road Accident,16,1,0,0,0,0,0,0,0,1,Medium
+Fire/Disaster,84,4,0,0,0,0,0,1,0,0,Critical
+Road Accident,2,4,1,0,0,0,0,0,0,1,High
+Road Accident,25,3,0,1,0,0,0,1,0,1,Critical
+Fire/Disaster,69,1,0,0,0,1,0,1,0,0,High
+Other,13,4,1,0,0,0,0,0,0,0,High
+Other,31,1,0,0,0,0,0,0,0,0,Medium
+Road Accident,24,2,0,1,0,0,0,0,0,0,High
+Fire/Disaster,69,4,1,0,1,0,0,0,1,0,Critical
+Heart Emergency,81,2,0,1,0,1,0,0,0,1,Critical
+Fire/Disaster,17,2,0,0,0,0,1,0,0,1,High
+Road Accident,50,2,0,1,0,0,1,0,0,0,Critical
+Stroke,6,2,0,0,0,0,0,0,0,1,Medium
+Fire/Disaster,79,4,0,0,0,0,0,0,0,0,Medium
+Fire/Disaster,15,1,0,0,0,0,1,1,0,0,Critical
+Other,38,2,0,0,0,0,0,0,0,0,Medium
+Heart Emergency,68,1,0,0,0,0,0,1,1,0,High
+Heart Emergency,2,1,0,0,0,0,0,0,0,1,Medium
+Road Accident,29,2,0,0,0,0,0,0,1,0,Medium
+Heart Emergency,93,1,0,0,0,0,0,0,0,0,Medium
+Other,73,1,0,0,0,1,1,0,0,0,Critical
+Fire/Disaster,56,1,0,0,0,0,0,0,1,0,Medium
+Heart Emergency,24,2,0,0,0,0,0,0,0,0,Medium
+Stroke,18,2,0,0,0,0,0,0,0,0,Medium
+Other,82,1,0,0,0,0,0,0,0,0,Medium
+Other,61,1,0,0,0,0,0,1,0,1,Medium
+Road Accident,44,4,1,0,0,0,0,1,0,0,Critical
+Other,34,1,0,0,0,1,0,0,1,0,High
+Stroke,26,3,0,0,0,0,0,1,0,1,High
+Fire/Disaster,46,1,0,0,1,0,1,0,0,0,Critical
+Other,78,4,1,0,0,1,0,1,0,1,Critical
+Other,25,1,0,1,0,0,0,0,0,0,High
+Heart Emergency,3,2,0,1,1,0,0,0,0,0,Critical
+Other,79,3,1,0,0,1,1,0,0,0,Critical
+Heart Emergency,5,2,0,0,0,1,0,0,0,0,High
+Stroke,61,1,0,0,0,0,0,1,0,0,High
+Road Accident,37,1,1,0,0,1,0,0,0,0,Critical
+Fire/Disaster,61,3,0,0,0,0,0,0,0,0,Medium
+Heart Emergency,74,1,0,0,0,1,0,0,1,0,High
+Road Accident,46,1,0,0,0,0,0,0,0,0,Medium
+Road Accident,83,1,0,0,0,1,0,0,0,1,High
+Road Accident,65,1,0,0,0,0,1,0,0,1,High
+Fire/Disaster,61,1,0,0,1,1,0,0,0,1,Critical
+Road Accident,50,2,1,0,0,0,0,0,0,0,High
+Stroke,54,3,0,1,1,1,0,1,0,0,Critical
+Road Accident,80,4,0,0,0,0,0,1,1,1,Critical
+Other,10,2,0,1,0,0,0,0,0,1,High
+Other,14,2,0,0,0,0,0,0,0,0,Medium
+Fire/Disaster,44,1,0,0,0,0,0,0,0,0,Medium
+Other,29,4,1,0,1,0,1,0,0,0,Critical
+Fire/Disaster,78,1,0,1,0,0,0,0,0,0,High
+Road Accident,22,2,1,0,0,0,1,1,1,0,Critical
+Other,78,2,0,0,1,0,0,1,0,1,High
+Other,79,2,1,0,1,0,1,1,0,0,Critical
+Heart Emergency,59,3,0,0,1,0,0,0,1,0,Critical
+Stroke,95,2,1,0,0,0,0,0,0,1,High
+Fire/Disaster,93,1,0,0,0,0,1,0,0,0,High
+Other,61,2,0,1,0,0,0,0,0,0,High
+Road Accident,94,1,1,0,0,0,0,0,0,1,High
+Stroke,50,3,0,0,0,0,0,0,0,0,Medium
+Fire/Disaster,45,4,0,0,1,0,0,1,0,1,Critical
+Stroke,34,2,0,0,0,0,0,0,0,0,Medium
+Road Accident,46,2,0,0,0,0,0,0,0,0,Medium
+Fire/Disaster,84,1,0,0,0,0,0,0,0,0,High
+Road Accident,43,2,0,0,0,0,0,0,0,1,Medium
+Stroke,30,1,0,0,0,0,0,0,0,0,Medium
+Heart Emergency,38,2,0,0,0,1,0,0,0,0,High
+Other,22,4,0,1,0,1,0,0,0,0,Critical
+Fire/Disaster,14,1,0,0,0,0,0,0,1,0,Medium
+Road Accident,92,3,0,0,0,0,0,1,0,0,High
+Road Accident,86,1,0,0,0,0,0,0,0,0,Medium
+Heart Emergency,51,4,0,0,1,1,0,0,0,0,Critical
+Heart Emergency,54,1,1,0,0,0,0,0,0,1,High
+Fire/Disaster,4,1,0,0,0,0,0,0,0,0,Medium
+Road Accident,35,1,1,0,0,0,0,0,0,0,High
+Stroke,74,1,0,0,1,0,0,0,0,1,High
+Road Accident,85,1,0,0,0,0,0,0,0,0,Medium
+Other,48,4,0,1,0,0,0,0,1,0,Critical
+Other,58,2,0,0,0,0,0,0,1,0,Medium
+Other,55,2,0,0,0,1,0,0,0,0,Medium
+Fire/Disaster,81,2,0,0,1,0,0,0,0,0,High
+Fire/Disaster,42,4,0,0,0,0,0,0,0,1,Medium
+Other,34,1,1,0,0,0,0,0,0,0,High
+Heart Emergency,53,2,0,0,0,1,0,0,0,1,High
+Heart Emergency,62,3,0,0,0,1,0,0,0,0,High
+Stroke,81,2,0,1,0,0,0,0,0,0,High
+Heart Emergency,28,4,0,0,0,0,0,1,0,0,High
+Other,43,1,0,0,0,0,1,0,0,0,High
+Other,44,3,0,0,0,0,0,1,0,0,High
+Stroke,74,1,0,1,1,1,0,1,0,0,Critical
+Other,22,4,1,0,0,0,0,0,0,0,High
+Heart Emergency,25,1,0,0,1,0,0,0,0,0,High
+Stroke,58,2,0,1,0,0,0,0,0,0,High
+Other,3,1,0,1,0,0,0,0,0,1,High
+Fire/Disaster,51,1,0,0,0,1,1,0,0,0,Critical
+Fire/Disaster,65,3,0,1,1,1,0,1,1,1,Critical
+Other,39,3,0,0,0,0,0,0,0,0,Medium
+Fire/Disaster,90,2,0,0,0,0,0,0,0,0,Medium
+Stroke,63,4,0,0,0,0,0,0,0,1,Medium
+Stroke,58,1,0,0,0,0,0,0,0,0,Medium
+Fire/Disaster,39,2,0,0,0,0,0,0,0,1,Medium
+Fire/Disaster,46,2,0,1,0,0,0,0,1,1,High
+Stroke,79,2,0,0,1,0,0,1,0,0,Critical
+Fire/Disaster,84,1,0,0,0,0,0,0,0,1,Medium
+Heart Emergency,45,2,0,0,0,0,0,0,0,0,Medium
+Other,35,3,0,0,0,0,0,0,0,0,Medium
+Fire/Disaster,64,2,1,0,0,0,0,0,1,0,High
+Fire/Disaster,54,4,0,0,1,0,0,0,0,0,High
+Heart Emergency,27,3,0,0,0,0,0,1,0,0,High
+Other,37,4,0,0,0,0,1,0,0,1,High
+Stroke,82,1,0,0,0,1,0,0,0,0,High
+Road Accident,23,1,0,1,1,0,0,0,1,0,Critical
+Road Accident,60,1,0,0,0,0,0,0,0,0,Medium
+Other,43,1,0,0,0,0,0,0,0,0,Medium
+Road Accident,38,2,0,0,0,0,0,1,1,1,High
+Other,85,4,1,0,0,0,0,0,0,0,High
+Road Accident,47,1,0,0,0,1,0,0,0,0,Medium
+Fire/Disaster,6,1,0,0,1,0,0,0,0,0,High
+Fire/Disaster,75,1,0,0,0,1,0,0,0,0,High
+Fire/Disaster,72,4,0,0,1,1,0,0,0,1,Critical
+Fire/Disaster,56,1,0,0,1,0,0,0,0,0,High
+Road Accident,26,2,0,1,1,0,0,1,0,0,Critical
+Fire/Disaster,20,1,0,0,0,0,0,0,0,0,Medium
+Road Accident,72,1,0,1,0,1,1,1,1,1,Critical
+Stroke,76,3,0,1,0,0,0,1,0,1,Critical
+Road Accident,27,3,0,0,0,0,0,0,1,1,Medium
+Heart Emergency,31,1,1,1,0,1,0,1,0,1,High
+Other,77,1,0,0,0,0,0,0,0,0,High
+Road Accident,65,1,0,0,0,1,0,1,0,0,High
+Heart Emergency,80,2,0,0,0,0,1,0,0,0,High
+Other,21,2,0,0,0,0,0,0,0,0,Medium
+Road Accident,42,1,1,1,0,1,0,0,0,0,Critical
+Heart Emergency,50,3,0,0,0,0,0,1,0,0,High
+Heart Emergency,75,2,1,1,0,0,0,0,0,0,Critical
+Stroke,54,1,0,1,0,0,1,0,0,0,Critical
+Fire/Disaster,88,4,0,1,1,0,0,0,0,0,Critical
+Fire/Disaster,82,2,0,0,0,0,0,0,0,1,Medium
+Fire/Disaster,57,1,0,0,0,1,0,0,0,0,Medium
+Other,94,2,0,0,0,1,0,0,0,1,High
+Fire/Disaster,18,2,0,0,1,0,0,0,1,0,High
+Other,32,4,0,0,0,0,0,0,0,0,Medium
+Road Accident,76,1,1,0,0,0,0,0,0,0,High
+Fire/Disaster,6,4,0,0,0,0,0,0,0,0,Medium
+Heart Emergency,94,2,0,0,0,1,1,0,0,0,Critical
+Road Accident,55,1,0,0,0,0,0,0,0,0,Medium
+Road Accident,7,1,1,0,0,0,0,0,0,1,High
+Stroke,64,4,1,1,0,0,0,0,0,0,Critical
+Fire/Disaster,27,3,1,0,0,1,0,0,0,0,Critical
+Road Accident,22,2,0,1,0,0,0,0,0,0,High
+Other,77,2,0,0,0,0,0,0,0,1,Medium
+Other,85,1,0,0,0,0,1,0,0,0,High
+Road Accident,93,3,0,0,0,0,0,0,1,0,High
+Stroke,63,3,0,0,1,1,0,0,1,0,Critical
+Fire/Disaster,13,2,0,0,0,0,0,0,0,0,Medium
+Road Accident,54,2,0,0,0,1,0,0,0,0,Medium
+Fire/Disaster,9,4,0,0,0,1,0,0,1,0,High
+Other,87,1,0,0,0,0,0,0,0,1,Medium
+Road Accident,56,2,0,0,0,0,0,1,0,0,Medium
+Other,38,1,0,0,0,0,1,0,1,0,High
+Fire/Disaster,67,2,0,1,0,0,0,0,0,0,High
+Fire/Disaster,48,4,0,0,0,1,0,0,0,1,High
+Fire/Disaster,73,2,0,1,0,0,0,0,0,0,High
+Fire/Disaster,86,1,1,0,0,0,1,0,0,0,Critical
+Heart Emergency,18,1,0,0,0,0,0,0,0,1,Medium
+Road Accident,74,2,0,0,0,0,0,0,0,0,Medium
+Other,11,2,1,0,0,1,1,0,0,0,Critical
+Road Accident,67,1,0,1,0,1,0,0,0,0,Critical
+Other,91,1,1,0,0,0,0,0,0,0,High
+Road Accident,10,2,0,0,0,0,1,1,1,0,Critical
+Stroke,91,2,0,1,0,1,1,0,0,0,Critical
+Fire/Disaster,60,1,0,0,0,1,0,0,0,1,Medium
+Road Accident,43,1,1,0,1,0,1,0,1,0,Critical
+Heart Emergency,11,1,0,0,0,1,0,0,0,0,High
+Road Accident,12,1,0,0,0,0,0,0,1,0,Medium
+Other,77,4,0,0,1,0,0,0,1,0,Critical
+Heart Emergency,84,1,0,0,0,0,0,0,0,1,Medium
+Road Accident,10,1,0,0,0,0,0,1,0,0,Medium
+Fire/Disaster,10,1,0,0,0,0,1,1,0,0,Critical
+Heart Emergency,68,1,0,0,0,0,0,0,0,0,Medium
+Stroke,10,1,0,1,1,0,0,0,1,0,Critical
